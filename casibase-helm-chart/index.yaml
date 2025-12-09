@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   casibase-helm-chart:
   - apiVersion: v2
+    appVersion: 1.730.1
+    created: "2025-12-09T08:00:36.704720539Z"
+    description: A Helm chart for Kubernetes
+    digest: 2893c25299259f5819d86dca3bfcd2d336fcf4013a3723508404301d42ffbc94
+    name: casibase-helm-chart
+    type: application
+    urls:
+    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.730.1.tgz
+    version: 1.730.1
+  - apiVersion: v2
     appVersion: 1.730.0
     created: "2025-12-08T16:17:25.447651196Z"
     description: A Helm chart for Kubernetes
@@ -2311,4 +2321,4 @@ entries:
     urls:
     - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.549.0.tgz
     version: v1.549.0
-generated: "2025-12-08T16:17:25.445493416Z"
+generated: "2025-12-09T08:00:36.703213423Z"
