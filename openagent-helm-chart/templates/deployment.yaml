@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ include "casibase-helm-chart.fullname" . }}
+  name: {{ include "openagent-helm-chart.fullname" . }}
   labels:
-    {{- include "casibase-helm-chart.labels" . | nindent 4 }}
+    {{- include "openagent-helm-chart.labels" . | nindent 4 }}
 spec:
   {{- if not .Values.autoscaling.enabled }}
   replicas: {{ .Values.replicaCount }}
   {{- end }}
   selector:
     matchLabels:
-      {{- include "casibase-helm-chart.selectorLabels" . | nindent 6 }}
+      {{- include "openagent-helm-chart.selectorLabels" . | nindent 6 }}
   template:
     metadata:
       annotations:
@@ -19,7 +19,7 @@ spec:
         {{- toYaml . | nindent 8 }}
         {{- end }}
       labels:
-        {{- include "casibase-helm-chart.labels" . | nindent 8 }}
+        {{- include "openagent-helm-chart.labels" . | nindent 8 }}
         {{- with .Values.podLabels }}
         {{- toYaml . | nindent 8 }}
         {{- end }}
@@ -28,7 +28,7 @@ spec:
       imagePullSecrets:
         {{- toYaml . | nindent 8 }}
       {{- end }}
-      serviceAccountName: {{ include "casibase-helm-chart.serviceAccountName" . }}
+      serviceAccountName: {{ include "openagent-helm-chart.serviceAccountName" . }}
       {{- with .Values.podSecurityContext }}
       securityContext:
         {{- toYaml . | nindent 8 }}
@@ -86,7 +86,7 @@ spec:
                       path: app.conf
             {{- else }}
               - configMap:
-                  name: {{ printf "%s-config" (include "casibase-helm-chart.fullname" .) }}
+                  name: {{ printf "%s-config" (include "openagent-helm-chart.fullname" .) }}
                   items:
                     - key: app.conf
                       path: app.conf

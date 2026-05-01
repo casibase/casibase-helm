@@ -1,3064 +1,3064 @@
 apiVersion: v1
 entries:
-  casibase-helm-chart:
+  openagent-helm-chart:
   - apiVersion: v2
     appVersion: 1.772.0
     created: "2026-04-24T12:14:44.334728881Z"
     description: A Helm chart for Kubernetes
     digest: dd413e7f5339b1e95d4ff81f76a990f88c38db2b6eb4dcda82dd7fd423c2c781
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.772.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.772.0.tgz
     version: 1.772.0
   - apiVersion: v2
     appVersion: 1.771.4
     created: "2026-04-23T17:15:51.835188037Z"
     description: A Helm chart for Kubernetes
     digest: 90d9901519e474fbda38702945d15d7f44385e8cf2d7d89ea28c72bcf906c339
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.771.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.771.4.tgz
     version: 1.771.4
   - apiVersion: v2
     appVersion: 1.771.3
     created: "2026-04-21T16:37:25.081461235Z"
     description: A Helm chart for Kubernetes
     digest: cafd4190e49b7bc930478110aa52f6f96bf7cb2dd626f9a4d0bfbf9c6abf0cb9
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.771.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.771.3.tgz
     version: 1.771.3
   - apiVersion: v2
     appVersion: 1.771.2
     created: "2026-04-20T14:04:53.42532459Z"
     description: A Helm chart for Kubernetes
     digest: 950b4afdcc7b78be22441a27397296b9441321395b6a762d4b551a2b30486a43
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.771.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.771.2.tgz
     version: 1.771.2
   - apiVersion: v2
     appVersion: 1.771.1
     created: "2026-04-20T03:15:16.266817997Z"
     description: A Helm chart for Kubernetes
     digest: cffdc0fd81fdf9a65d7102da84d8765b9d5edb0241d522af7d787364560f160d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.771.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.771.1.tgz
     version: 1.771.1
   - apiVersion: v2
     appVersion: 1.771.0
     created: "2026-04-19T19:14:31.271014998Z"
     description: A Helm chart for Kubernetes
     digest: 472acd0e9e2e1e9feba7cd274ce65951ab28683402fa0bffcb14818fec2a066f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.771.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.771.0.tgz
     version: 1.771.0
   - apiVersion: v2
     appVersion: 1.770.1
     created: "2026-04-19T13:04:01.360607107Z"
     description: A Helm chart for Kubernetes
     digest: c6a0a81718acc5d9369c58797b30faa759ca168c4b04c42a04f74dfb7c84e612
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.770.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.770.1.tgz
     version: 1.770.1
   - apiVersion: v2
     appVersion: 1.770.0
     created: "2026-04-19T10:30:43.138430708Z"
     description: A Helm chart for Kubernetes
     digest: 08e36cc4198ecae230b92338443eb1046a1966da5abfa07256d49bad4298a7de
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.770.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.770.0.tgz
     version: 1.770.0
   - apiVersion: v2
     appVersion: 1.769.1
     created: "2026-04-19T09:33:52.930238691Z"
     description: A Helm chart for Kubernetes
     digest: bfdd87b6aef42cdf15b44bbe3c21e41f05164cb33eafa3951191150e9c5561a1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.769.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.769.1.tgz
     version: 1.769.1
   - apiVersion: v2
     appVersion: 1.769.0
     created: "2026-04-19T08:30:28.091848785Z"
     description: A Helm chart for Kubernetes
     digest: cb310e91dd6aeafbca61b6a4c6f1e8c2e9fedf42d68f974dd055fa3587a5c1f3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.769.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.769.0.tgz
     version: 1.769.0
   - apiVersion: v2
     appVersion: 1.768.0
     created: "2026-04-18T18:36:11.539665098Z"
     description: A Helm chart for Kubernetes
     digest: 9f3541628b97fbd7b97703c2bfaeea4c6a95862db3a4065dc557fcfd8a20ae05
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.768.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.768.0.tgz
     version: 1.768.0
   - apiVersion: v2
     appVersion: 1.767.1
     created: "2026-04-18T13:01:17.59968565Z"
     description: A Helm chart for Kubernetes
     digest: c2e32a240a5d1c6645a87283b8da5cb32300d8372b91bb9a789342ec38cfe2bf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.767.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.767.1.tgz
     version: 1.767.1
   - apiVersion: v2
     appVersion: 1.767.0
     created: "2026-04-18T12:35:10.545656628Z"
     description: A Helm chart for Kubernetes
     digest: f46db38dd42b5a218ec9ec092f3a7fa9ee11a40c3c679fe27564666e7a54195d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.767.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.767.0.tgz
     version: 1.767.0
   - apiVersion: v2
     appVersion: 1.766.0
     created: "2026-04-18T09:21:34.6426184Z"
     description: A Helm chart for Kubernetes
     digest: b21dad0a96ded89a1aee2ed9bdba5b2db487ff24c09885f4850c4fcd106c6ff6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.766.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.766.0.tgz
     version: 1.766.0
   - apiVersion: v2
     appVersion: 1.765.0
     created: "2026-04-12T10:22:05.121351891Z"
     description: A Helm chart for Kubernetes
     digest: 8dc5cb9d2621f8e148b6390e4b22660fbdfec8d7fe790021966bcda00dedef81
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.765.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.765.0.tgz
     version: 1.765.0
   - apiVersion: v2
     appVersion: 1.764.0
     created: "2026-04-11T07:31:36.125365434Z"
     description: A Helm chart for Kubernetes
     digest: 3e5f467295ee2d5633c614283e150e5c5093dd8661d31674eafeb5cd5f53fdde
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.764.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.764.0.tgz
     version: 1.764.0
   - apiVersion: v2
     appVersion: 1.763.0
     created: "2026-04-11T05:51:01.761638841Z"
     description: A Helm chart for Kubernetes
     digest: 290026ff52b21259e4fde11d35c8cc0bbc06d5de59cab98ccad3737b9de65ac1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.763.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.763.0.tgz
     version: 1.763.0
   - apiVersion: v2
     appVersion: 1.762.0
     created: "2026-04-11T05:14:25.479212981Z"
     description: A Helm chart for Kubernetes
     digest: 4573ea4d532d52785ca5efda6f85797f7dde0e1500420407c164c74066043cf4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.762.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.762.0.tgz
     version: 1.762.0
   - apiVersion: v2
     appVersion: 1.761.0
     created: "2026-03-28T09:38:44.802510063Z"
     description: A Helm chart for Kubernetes
     digest: 5f055f9192d80bfd3d3a0dd5a7f1aa817c1e15161d0bc669bde15532de083084
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.761.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.761.0.tgz
     version: 1.761.0
   - apiVersion: v2
     appVersion: 1.760.3
     created: "2026-03-23T13:52:01.181549874Z"
     description: A Helm chart for Kubernetes
     digest: 55c9a3a6bb046ea9ebc35cfbdfe021ad16f0201f86d2016962c3ff32f3401480
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.760.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.760.3.tgz
     version: 1.760.3
   - apiVersion: v2
     appVersion: 1.760.2
     created: "2026-03-22T15:06:21.533857494Z"
     description: A Helm chart for Kubernetes
     digest: 6ab918f9f503ee4816fc63d7af30ae459ba22198c4a1660a8bdd2b7c746aeee3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.760.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.760.2.tgz
     version: 1.760.2
   - apiVersion: v2
     appVersion: 1.760.1
     created: "2026-03-22T14:12:57.723742412Z"
     description: A Helm chart for Kubernetes
     digest: 0ebd7af4847801522ee9b808b64277117daaf13a7dfd1353993204402f350ccc
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.760.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.760.1.tgz
     version: 1.760.1
   - apiVersion: v2
     appVersion: 1.760.0
     created: "2026-03-22T13:15:41.045616859Z"
     description: A Helm chart for Kubernetes
     digest: 042a6b09fff248696309629a50c29d6bbce6a975b3afcf75886d6c03b097f855
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.760.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.760.0.tgz
     version: 1.760.0
   - apiVersion: v2
     appVersion: 1.759.1
     created: "2026-03-22T12:28:52.086492858Z"
     description: A Helm chart for Kubernetes
     digest: c3ac5918ea035c6924df80d37ed8cb53006b887835e7780adcf7c83c2d99ce3c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.759.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.759.1.tgz
     version: 1.759.1
   - apiVersion: v2
     appVersion: 1.759.0
     created: "2026-03-22T12:22:45.588347973Z"
     description: A Helm chart for Kubernetes
     digest: 75fa0e6cd3685549a72781a8f4389d9f80bb7ade336d0d6f9552118a928a3a8e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.759.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.759.0.tgz
     version: 1.759.0
   - apiVersion: v2
     appVersion: 1.758.2
     created: "2026-02-19T15:40:25.106966552Z"
     description: A Helm chart for Kubernetes
     digest: 400aacb65ed82dd2ac866e2691d6544376a18e444d8739c2f3930ce2d899ceff
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.758.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.758.2.tgz
     version: 1.758.2
   - apiVersion: v2
     appVersion: 1.758.1
     created: "2026-02-19T15:08:40.533339746Z"
     description: A Helm chart for Kubernetes
     digest: 7152c8f9e42e2f832ec66262e64e92f9a6e1d31c6e07e5b64d2bc193ae3c72f8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.758.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.758.1.tgz
     version: 1.758.1
   - apiVersion: v2
     appVersion: 1.758.0
     created: "2026-02-15T02:12:00.795391527Z"
     description: A Helm chart for Kubernetes
     digest: e5c3544e86659b440449392cfd5aa6b31dfb930e22da9d1377394ada8aceaab2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.758.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.758.0.tgz
     version: 1.758.0
   - apiVersion: v2
     appVersion: 1.757.0
     created: "2026-02-15T01:31:10.694350651Z"
     description: A Helm chart for Kubernetes
     digest: 3f00d98cda09999b24b3e03c948f5fe47db945814ebebccc082744bae6f1a7b6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.757.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.757.0.tgz
     version: 1.757.0
   - apiVersion: v2
     appVersion: 1.756.3
     created: "2026-02-14T19:05:56.992228608Z"
     description: A Helm chart for Kubernetes
     digest: eef46b7802297e8555a98471dbba4ca893ebde87242096176fbe8dedfb33a271
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.756.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.756.3.tgz
     version: 1.756.3
   - apiVersion: v2
     appVersion: 1.756.2
     created: "2026-02-14T18:56:52.466002213Z"
     description: A Helm chart for Kubernetes
     digest: 40da5f292c05d070be376628b75bae1dd39dffb3f45f8ef9d10864245201fbb4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.756.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.756.2.tgz
     version: 1.756.2
   - apiVersion: v2
     appVersion: 1.756.1
     created: "2026-02-14T18:45:42.19951161Z"
     description: A Helm chart for Kubernetes
     digest: 1937176c6d90c09355e1c2ff2ef5f52692b3ac96b4339c7f58d353725b75e8de
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.756.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.756.1.tgz
     version: 1.756.1
   - apiVersion: v2
     appVersion: 1.756.0
     created: "2026-02-14T18:18:43.795683262Z"
     description: A Helm chart for Kubernetes
     digest: ccc751b7c72b7082db3b5889b73643b4e1983b1a7160c6cc97a542a9a2e24928
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.756.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.756.0.tgz
     version: 1.756.0
   - apiVersion: v2
     appVersion: 1.755.6
     created: "2026-02-14T16:53:57.680691057Z"
     description: A Helm chart for Kubernetes
     digest: 08e13f00d9170adcdd10f7d4ab55ced994f76fd94a2f95d8e24e90c7324341bb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.6.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.6.tgz
     version: 1.755.6
   - apiVersion: v2
     appVersion: 1.755.5
     created: "2026-02-14T16:24:43.006294963Z"
     description: A Helm chart for Kubernetes
     digest: 5458b10826ef27c4ee524089caae20f1635427a73bb6274da9761899a5b5a770
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.5.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.5.tgz
     version: 1.755.5
   - apiVersion: v2
     appVersion: 1.755.4
     created: "2026-02-14T16:06:07.604283553Z"
     description: A Helm chart for Kubernetes
     digest: ea6d15827fde87de79dbd463431ac5e6f101fcbc1e42d0a592763837e9370b63
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.4.tgz
     version: 1.755.4
   - apiVersion: v2
     appVersion: 1.755.3
     created: "2026-02-14T15:45:38.925607247Z"
     description: A Helm chart for Kubernetes
     digest: 46b2ace63198c6f8b9fe30929e66b7846050991ae5ecf9ceca135db3edf75f1e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.3.tgz
     version: 1.755.3
   - apiVersion: v2
     appVersion: 1.755.2
     created: "2026-02-14T15:40:15.730055241Z"
     description: A Helm chart for Kubernetes
     digest: 3f8f686d2c8da8a16e9716690d1b9892b06a28044201e556037b50ee7d90ebec
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.2.tgz
     version: 1.755.2
   - apiVersion: v2
     appVersion: 1.755.1
     created: "2026-02-12T14:44:29.510971922Z"
     description: A Helm chart for Kubernetes
     digest: 299c0394d0c11e75c421692c82724e1cf4109587969c63f3d85fe134dd80716c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.1.tgz
     version: 1.755.1
   - apiVersion: v2
     appVersion: 1.755.0
     created: "2026-02-12T14:24:25.866586489Z"
     description: A Helm chart for Kubernetes
     digest: eba886f31275ebed519832862738b3ff4bf3fc1206ef457d1056c866f179a428
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.755.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.755.0.tgz
     version: 1.755.0
   - apiVersion: v2
     appVersion: 1.754.0
     created: "2026-02-03T15:45:11.934868343Z"
     description: A Helm chart for Kubernetes
     digest: ec02a1e0443469df3e171c999261c0bd913d4ae96c396d1ddcde2355e618a0d4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.754.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.754.0.tgz
     version: 1.754.0
   - apiVersion: v2
     appVersion: 1.753.0
     created: "2026-01-28T02:49:55.837331837Z"
     description: A Helm chart for Kubernetes
     digest: 67aeaf809baaca2603547ba721f2a3e88c9342835e8f41e44612dd906c39fea4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.753.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.753.0.tgz
     version: 1.753.0
   - apiVersion: v2
     appVersion: 1.752.0
     created: "2026-01-27T03:17:04.292759274Z"
     description: A Helm chart for Kubernetes
     digest: 5bc35c98bf8c4680c04f69764f4ae8ac63acd9b4a6e7805241f306a9b2ff2ae1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.752.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.752.0.tgz
     version: 1.752.0
   - apiVersion: v2
     appVersion: 1.751.0
     created: "2026-01-24T07:41:22.380757517Z"
     description: A Helm chart for Kubernetes
     digest: 2005de07eb90447406cd9b4db3949c0277ea2d25f61a5b9dd08fe474d6fd4ff3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.751.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.751.0.tgz
     version: 1.751.0
   - apiVersion: v2
     appVersion: 1.750.0
     created: "2026-01-24T07:31:37.305187144Z"
     description: A Helm chart for Kubernetes
     digest: bf87e023c8702145bfc147692daa3256981df91f7a06f37ea352ba9ae75d3e63
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.750.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.750.0.tgz
     version: 1.750.0
   - apiVersion: v2
     appVersion: 1.749.0
     created: "2026-01-21T09:10:55.654800379Z"
     description: A Helm chart for Kubernetes
     digest: 53d14f24f3f7688ec3cdd2d6ca21bc2523098f5e2efbedbaf1abc247b110622b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.749.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.749.0.tgz
     version: 1.749.0
   - apiVersion: v2
     appVersion: 1.748.0
     created: "2026-01-10T09:10:32.36617303Z"
     description: A Helm chart for Kubernetes
     digest: df1fd76b6a29d573126912ee575f7938155218f98718e0c6587b23e6ae248a5e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.748.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.748.0.tgz
     version: 1.748.0
   - apiVersion: v2
     appVersion: 1.747.0
     created: "2026-01-10T08:09:59.95582909Z"
     description: A Helm chart for Kubernetes
     digest: 976059d7619138c85d29830e3074daa98717998d24ee606512612eff75faa84e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.747.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.747.0.tgz
     version: 1.747.0
   - apiVersion: v2
     appVersion: 1.746.0
     created: "2026-01-07T15:01:50.520104968Z"
     description: A Helm chart for Kubernetes
     digest: 68967838d5cc788b8c26fed60f0fa4be09a0879d214ec99e122f41bd89d2495c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.746.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.746.0.tgz
     version: 1.746.0
   - apiVersion: v2
     appVersion: 1.745.0
     created: "2026-01-02T09:58:07.571899492Z"
     description: A Helm chart for Kubernetes
     digest: 3c40d0d2a008d02f3d792474c340c0f79692c488af594976cbe74497dc58adf4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.745.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.745.0.tgz
     version: 1.745.0
   - apiVersion: v2
     appVersion: 1.744.0
     created: "2025-12-31T07:38:11.186211475Z"
     description: A Helm chart for Kubernetes
     digest: b5d50769abe39ff6e0324a47ae353d8269a80dbbafa5500e3176c036d682554f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.744.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.744.0.tgz
     version: 1.744.0
   - apiVersion: v2
     appVersion: 1.743.0
     created: "2025-12-30T14:08:29.703422879Z"
     description: A Helm chart for Kubernetes
     digest: 45c3bb2881ac2dd08483f2852393ee9d6779d101179bf94d94cff84059d74d81
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.743.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.743.0.tgz
     version: 1.743.0
   - apiVersion: v2
     appVersion: 1.742.0
     created: "2025-12-29T03:13:13.557550077Z"
     description: A Helm chart for Kubernetes
     digest: 29be5dc03e6dced9984842b7a894dce2e077d01f538077e9e31706b26c8e1907
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.742.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.742.0.tgz
     version: 1.742.0
   - apiVersion: v2
     appVersion: 1.741.0
     created: "2025-12-28T07:50:54.707349271Z"
     description: A Helm chart for Kubernetes
     digest: 1ecb211ec50298de84832faa69ec58a5fecadff8e923fa4713801da6377c915b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.741.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.741.0.tgz
     version: 1.741.0
   - apiVersion: v2
     appVersion: 1.740.0
     created: "2025-12-25T05:17:32.57882446Z"
     description: A Helm chart for Kubernetes
     digest: 1dab2f6db0cd3244c205275bed49f81d23b8e0f4ed22b9364d1057faf136adb4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.740.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.740.0.tgz
     version: 1.740.0
   - apiVersion: v2
     appVersion: 1.739.1
     created: "2025-12-24T14:33:31.454015312Z"
     description: A Helm chart for Kubernetes
     digest: 9f7b85a0e659362a53929a0579e9d78983217f7e3a0959bbe9b34954bb7bd646
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.739.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.739.1.tgz
     version: 1.739.1
   - apiVersion: v2
     appVersion: 1.739.0
     created: "2025-12-24T14:00:25.565155399Z"
     description: A Helm chart for Kubernetes
     digest: 3c567fe8a67814c7724697a231b4cb3b0c5eb175588336cdcb85f9a730fd1a53
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.739.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.739.0.tgz
     version: 1.739.0
   - apiVersion: v2
     appVersion: 1.738.0
     created: "2025-12-19T16:53:28.060303024Z"
     description: A Helm chart for Kubernetes
     digest: 82ea1c363e25b129126d56c2405206962f84803d84cfb9eacc2351b11a897fc7
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.738.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.738.0.tgz
     version: 1.738.0
   - apiVersion: v2
     appVersion: 1.737.1
     created: "2025-12-19T16:18:53.137011795Z"
     description: A Helm chart for Kubernetes
     digest: 51d33064ecb5e3b20966827d32c5f1a06312e7f5005772da78bd9c7c0590cd38
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.737.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.737.1.tgz
     version: 1.737.1
   - apiVersion: v2
     appVersion: 1.737.0
     created: "2025-12-18T03:03:32.493519018Z"
     description: A Helm chart for Kubernetes
     digest: 15067e7e885002e297051e63666edb067efc1b7e6e6343a43ef3d423e6d3df25
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.737.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.737.0.tgz
     version: 1.737.0
   - apiVersion: v2
     appVersion: 1.736.3
     created: "2025-12-18T02:51:13.143069822Z"
     description: A Helm chart for Kubernetes
     digest: 0134211970ba1507a64b8a0fa629e353a63042b815e5dc680d761550ca4adf7a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.736.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.736.3.tgz
     version: 1.736.3
   - apiVersion: v2
     appVersion: 1.736.2
     created: "2025-12-12T13:47:38.316580172Z"
     description: A Helm chart for Kubernetes
     digest: c2219ec346744536333c1115b73f997c8ff37503fbd4b9c8e62ae15abd09ae64
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.736.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.736.2.tgz
     version: 1.736.2
   - apiVersion: v2
     appVersion: 1.736.1
     created: "2025-12-11T16:43:53.656934841Z"
     description: A Helm chart for Kubernetes
     digest: aa74d18d045d32fbfb916638beb13817e3aac280a38aa5f309d12b1a431660d6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.736.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.736.1.tgz
     version: 1.736.1
   - apiVersion: v2
     appVersion: 1.736.0
     created: "2025-12-11T15:54:49.432376799Z"
     description: A Helm chart for Kubernetes
     digest: a33f1fc744c6397b69cbf3cefd7b5037655ba7adf7db24020ba0cba0e4ddcbae
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.736.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.736.0.tgz
     version: 1.736.0
   - apiVersion: v2
     appVersion: 1.735.1
     created: "2025-12-11T02:43:11.073123081Z"
     description: A Helm chart for Kubernetes
     digest: c9275003e13230f0e4cf34a470245c6ea2826d8dcf384b743ad17fb44c47ddda
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.735.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.735.1.tgz
     version: 1.735.1
   - apiVersion: v2
     appVersion: 1.735.0
     created: "2025-12-10T16:49:58.085783127Z"
     description: A Helm chart for Kubernetes
     digest: 75f853ad4f2a38f3d8926b8f93c379c5e7d92b9efff83e8588c878c3157493c5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.735.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.735.0.tgz
     version: 1.735.0
   - apiVersion: v2
     appVersion: 1.734.1
     created: "2025-12-10T15:03:08.999586689Z"
     description: A Helm chart for Kubernetes
     digest: aa4666855283471280fd20c2d582b5d8d145c0cd3616af356000575de2848eea
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.734.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.734.1.tgz
     version: 1.734.1
   - apiVersion: v2
     appVersion: 1.734.0
     created: "2025-12-10T14:48:39.614996786Z"
     description: A Helm chart for Kubernetes
     digest: 1163695db2d20dd1c1645ea7e786cbcf58f8c1003125ce873e3e94e97fbaaecf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.734.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.734.0.tgz
     version: 1.734.0
   - apiVersion: v2
     appVersion: 1.733.0
     created: "2025-12-10T09:54:42.452651555Z"
     description: A Helm chart for Kubernetes
     digest: 635ff392385883a534033f6c8d0c87427c663e37bd3af8b25a986a5f378da280
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.733.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.733.0.tgz
     version: 1.733.0
   - apiVersion: v2
     appVersion: 1.732.3
     created: "2025-12-10T08:10:15.866572261Z"
     description: A Helm chart for Kubernetes
     digest: 2980b333d8612e962212619c829f79e804008d9dc238f2b72f382236ec464546
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.732.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.732.3.tgz
     version: 1.732.3
   - apiVersion: v2
     appVersion: 1.732.2
     created: "2025-12-10T07:28:24.866244016Z"
     description: A Helm chart for Kubernetes
     digest: e82d9848d86e68956d7fa61f7bcd439e576ba428ae00b0bbce64b3e9670b486c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.732.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.732.2.tgz
     version: 1.732.2
   - apiVersion: v2
     appVersion: 1.732.1
     created: "2025-12-10T07:22:51.933835868Z"
     description: A Helm chart for Kubernetes
     digest: 7fcc7102e2dc79808ecd178444868226ec3a76de1afc287f502b50a6bb378bd4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.732.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.732.1.tgz
     version: 1.732.1
   - apiVersion: v2
     appVersion: 1.732.0
     created: "2025-12-10T06:51:35.683036131Z"
     description: A Helm chart for Kubernetes
     digest: 455e4120979bcc543891ca38ca319a6d67f8d40d1bf87e2246af3faeae399c70
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.732.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.732.0.tgz
     version: 1.732.0
   - apiVersion: v2
     appVersion: 1.731.0
     created: "2025-12-10T04:13:23.735165754Z"
     description: A Helm chart for Kubernetes
     digest: a86314bca8e1a5f62592036f461592a1d3662dbc31dc00421eab6f556b8a5f5d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.731.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.731.0.tgz
     version: 1.731.0
   - apiVersion: v2
     appVersion: 1.730.1
     created: "2025-12-09T08:00:36.704720539Z"
     description: A Helm chart for Kubernetes
     digest: 2893c25299259f5819d86dca3bfcd2d336fcf4013a3723508404301d42ffbc94
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.730.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.730.1.tgz
     version: 1.730.1
   - apiVersion: v2
     appVersion: 1.730.0
     created: "2025-12-08T16:17:25.447651196Z"
     description: A Helm chart for Kubernetes
     digest: 595c313906c90549cd9ee6c9d5b38dc6b45542c7bab4284cc95ed67b50e32418
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.730.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.730.0.tgz
     version: 1.730.0
   - apiVersion: v2
     appVersion: 1.729.1
     created: "2025-12-08T05:40:04.428599664Z"
     description: A Helm chart for Kubernetes
     digest: 3894b97ce6d921dc7d6a91245a11f73b6417fff167c20285ae19311362d7d619
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.729.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.729.1.tgz
     version: 1.729.1
   - apiVersion: v2
     appVersion: 1.729.0
     created: "2025-12-03T13:00:44.340446394Z"
     description: A Helm chart for Kubernetes
     digest: 9e5ff90ce6a2eae061e81179a3902082f23be7ca416c88ee6df2a2f943471998
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.729.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.729.0.tgz
     version: 1.729.0
   - apiVersion: v2
     appVersion: 1.728.0
     created: "2025-11-25T16:02:31.126125867Z"
     description: A Helm chart for Kubernetes
     digest: ae1d12d658c4eb2a4bf646d7c0b2202800e414a379a7476ed284e42df2d633ed
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.728.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.728.0.tgz
     version: 1.728.0
   - apiVersion: v2
     appVersion: 1.727.0
     created: "2025-11-25T13:21:05.966020592Z"
     description: A Helm chart for Kubernetes
     digest: 193d12ebca10c33ad5a1811ccbeaee9855ecb3ac260f91cba1161e37799b4565
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.727.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.727.0.tgz
     version: 1.727.0
   - apiVersion: v2
     appVersion: 1.726.1
     created: "2025-11-23T18:06:16.83916289Z"
     description: A Helm chart for Kubernetes
     digest: b10ed837eee820e9e772862d77e10425619d21e61adc8e7d235597068744e650
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.726.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.726.1.tgz
     version: 1.726.1
   - apiVersion: v2
     appVersion: 1.726.0
     created: "2025-11-23T13:40:38.880408249Z"
     description: A Helm chart for Kubernetes
     digest: 0f8da20be9fb50ef160086625ee3ad66697f2b3991eed4d08b3d3f7bb2a810cd
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.726.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.726.0.tgz
     version: 1.726.0
   - apiVersion: v2
     appVersion: 1.725.0
     created: "2025-11-22T14:00:35.527384536Z"
     description: A Helm chart for Kubernetes
     digest: 1a4cbd8bc14396ccac3eff7e6348c20252f34ba8e27b3e346d5b4bbd3c482d38
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.725.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.725.0.tgz
     version: 1.725.0
   - apiVersion: v2
     appVersion: 1.724.1
     created: "2025-11-22T13:48:22.140871029Z"
     description: A Helm chart for Kubernetes
     digest: 26b230479f44af8060cd8b6a5e6067aab317d2e70ec62adbf40fd31d0e483a6d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.724.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.724.1.tgz
     version: 1.724.1
   - apiVersion: v2
     appVersion: 1.724.0
     created: "2025-11-22T07:27:36.831969781Z"
     description: A Helm chart for Kubernetes
     digest: fa63ad4044dcba4ea2649cb941e997437d56f3363f9d395136c44d823bcda373
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.724.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.724.0.tgz
     version: 1.724.0
   - apiVersion: v2
     appVersion: 1.723.0
     created: "2025-11-21T15:39:58.207923911Z"
     description: A Helm chart for Kubernetes
     digest: 3370c4103dcf01996c4926b0eb3134216d29fa9b108be2d124e7a5151f08d910
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.723.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.723.0.tgz
     version: 1.723.0
   - apiVersion: v2
     appVersion: 1.722.1
     created: "2025-11-21T14:33:08.091721906Z"
     description: A Helm chart for Kubernetes
     digest: cc4d6d66db8d24033a706794117617f78001d573b96afd615ae7b7244cde0598
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.722.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.722.1.tgz
     version: 1.722.1
   - apiVersion: v2
     appVersion: 1.722.0
     created: "2025-11-19T12:26:55.359365971Z"
     description: A Helm chart for Kubernetes
     digest: 459705b784b0ccfeb4e6524fe4ffc3aeb02bd27da65191dc5c540a9c3ae634b2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.722.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.722.0.tgz
     version: 1.722.0
   - apiVersion: v2
     appVersion: 1.721.0
     created: "2025-11-19T08:17:38.81026374Z"
     description: A Helm chart for Kubernetes
     digest: 4a3bcfb2cf90c23a6b2b57f5051b37c19628034e89b31864e3d09df7938a96ab
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.721.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.721.0.tgz
     version: 1.721.0
   - apiVersion: v2
     appVersion: 1.720.0
     created: "2025-11-19T03:01:05.940140862Z"
     description: A Helm chart for Kubernetes
     digest: 1b566a9a4ec049fab667a4cc3d14d36e2049dbb77adeb47b52716da5dacbc94b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.720.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.720.0.tgz
     version: 1.720.0
   - apiVersion: v2
     appVersion: 1.719.0
     created: "2025-11-18T15:28:49.734820639Z"
     description: A Helm chart for Kubernetes
     digest: 2b8229e4464d672613afa4221f9fdc261c07cfe62a5c54bb64cfd024e5fedf04
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.719.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.719.0.tgz
     version: 1.719.0
   - apiVersion: v2
     appVersion: 1.718.1
     created: "2025-11-17T06:33:42.989907727Z"
     description: A Helm chart for Kubernetes
     digest: 596bbe244f6fd26f5b7329311d4f59dc439fcc4d289330c662e307ea99333f58
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.718.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.718.1.tgz
     version: 1.718.1
   - apiVersion: v2
     appVersion: 1.718.0
     created: "2025-11-16T15:58:57.526628951Z"
     description: A Helm chart for Kubernetes
     digest: 12276a37f4c18b9af03617e4dcc7f65966d1b07b89e4af8cd90c989381c33234
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.718.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.718.0.tgz
     version: 1.718.0
   - apiVersion: v2
     appVersion: 1.717.0
     created: "2025-11-16T10:16:06.996769535Z"
     description: A Helm chart for Kubernetes
     digest: a11fe6c1a6eac1fa8fc93f8dae5ba8b1edf0c7483d46a8ecfc07b4bd2d9fff79
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.717.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.717.0.tgz
     version: 1.717.0
   - apiVersion: v2
     appVersion: 1.716.1
     created: "2025-11-14T13:41:23.675229658Z"
     description: A Helm chart for Kubernetes
     digest: d67c2a6d7a39487bb8297d6b15eb948e4ecdc738b7a2a1dde4a28c8ab893f925
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.716.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.716.1.tgz
     version: 1.716.1
   - apiVersion: v2
     appVersion: 1.716.0
     created: "2025-11-14T13:33:07.406098285Z"
     description: A Helm chart for Kubernetes
     digest: cda75092f577d5eea6709092fc2767cbe5f18a97d38498dfb8a668d80454fb84
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.716.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.716.0.tgz
     version: 1.716.0
   - apiVersion: v2
     appVersion: 1.715.0
     created: "2025-11-14T09:37:46.777194472Z"
     description: A Helm chart for Kubernetes
     digest: df8f7d9eea9f20d4fc038301e92394aa98f584091c57f3978c9f8cdca84341c6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.715.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.715.0.tgz
     version: 1.715.0
   - apiVersion: v2
     appVersion: 1.714.0
     created: "2025-11-12T17:29:31.286130191Z"
     description: A Helm chart for Kubernetes
     digest: 10ec6f06c261b61606531dd29e00df25ca9f7a6845742727b9e652e138ee4056
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.714.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.714.0.tgz
     version: 1.714.0
   - apiVersion: v2
     appVersion: 1.713.2
     created: "2025-11-12T17:02:37.830005425Z"
     description: A Helm chart for Kubernetes
     digest: 2dbb54de0d4841ef2d10b11a7aec32d1afb49737ce32a015abe89ecd5e13d1a0
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.713.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.713.2.tgz
     version: 1.713.2
   - apiVersion: v2
     appVersion: 1.713.1
     created: "2025-11-12T16:46:31.851304495Z"
     description: A Helm chart for Kubernetes
     digest: b962671581042c12e581894543f76f937f9d9b3558449d987fbe4a31ddf838c4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.713.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.713.1.tgz
     version: 1.713.1
   - apiVersion: v2
     appVersion: 1.713.0
     created: "2025-11-12T16:02:43.159605789Z"
     description: A Helm chart for Kubernetes
     digest: afe08438793e79bfbba1a2f4fc1b9f6e5a76a76bfcf72f360f7d952316f8fcf5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.713.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.713.0.tgz
     version: 1.713.0
   - apiVersion: v2
     appVersion: 1.712.0
     created: "2025-11-12T12:42:12.466938618Z"
     description: A Helm chart for Kubernetes
     digest: 7cce4971b29175f014fa5bcf6efbf4d989ce5b478baf2d6856149089452c74bb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.712.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.712.0.tgz
     version: 1.712.0
   - apiVersion: v2
     appVersion: 1.711.3
     created: "2025-11-11T13:02:31.600756283Z"
     description: A Helm chart for Kubernetes
     digest: 6189108db1a728feb18add963d950b388087862f0efbe7403d16936dad5ab61b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.711.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.711.3.tgz
     version: 1.711.3
   - apiVersion: v2
     appVersion: 1.711.2
     created: "2025-11-11T04:53:08.113369039Z"
     description: A Helm chart for Kubernetes
     digest: 038b567e1d6cc5c0593b21a70c4ec5aca23c58f87006d9fcf4dff64b393c43cb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.711.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.711.2.tgz
     version: 1.711.2
   - apiVersion: v2
     appVersion: 1.711.1
     created: "2025-11-11T03:57:40.441860269Z"
     description: A Helm chart for Kubernetes
     digest: 8e7ffb2c4f649e04915ee72d8bc8aeec2de3d53f789d7ca57fd9199d36f84543
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.711.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.711.1.tgz
     version: 1.711.1
   - apiVersion: v2
     appVersion: 1.711.0
     created: "2025-11-11T02:50:48.602019407Z"
     description: A Helm chart for Kubernetes
     digest: 962ca2d7c76b4cbb5ff021f57b5e588a24252ee1e147b3badd32d1b16982cfda
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.711.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.711.0.tgz
     version: 1.711.0
   - apiVersion: v2
     appVersion: 1.710.1
     created: "2025-11-10T14:39:03.98620415Z"
     description: A Helm chart for Kubernetes
     digest: 74e9fa9e5292ce036d1404ea2533c51e8708202f67dbc95784b68f686c470936
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.710.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.710.1.tgz
     version: 1.710.1
   - apiVersion: v2
     appVersion: 1.710.0
     created: "2025-11-10T05:51:08.334357034Z"
     description: A Helm chart for Kubernetes
     digest: cadeabd3712831f5a58ee5bf65aeba023c50e7126988f3c93fe2fa02d12eaf72
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.710.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.710.0.tgz
     version: 1.710.0
   - apiVersion: v2
     appVersion: 1.709.0
     created: "2025-11-10T04:32:13.942726598Z"
     description: A Helm chart for Kubernetes
     digest: 5bc8f33f8ecfdc4666f6a078dea41eadd491256957060ddf2ebe09c63f7d20d5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.709.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.709.0.tgz
     version: 1.709.0
   - apiVersion: v2
     appVersion: 1.708.3
     created: "2025-11-10T02:43:04.489015459Z"
     description: A Helm chart for Kubernetes
     digest: 9fa1a696c774e1eb3aac2383c2536a1c6ade2f4a603d1c70cb815e3d70562b8a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.708.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.708.3.tgz
     version: 1.708.3
   - apiVersion: v2
     appVersion: 1.708.2
     created: "2025-11-09T16:46:36.463315797Z"
     description: A Helm chart for Kubernetes
     digest: 880d55b6463315888a5ac1fd8abaa4f3824008185dcc9e01cecebed8d2add194
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.708.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.708.2.tgz
     version: 1.708.2
   - apiVersion: v2
     appVersion: 1.708.1
     created: "2025-11-08T17:55:10.973530685Z"
     description: A Helm chart for Kubernetes
     digest: b4a742a9ac7b4b252863a48cc08b0bc5f1c6f91409ae5749976a3464c9aaac55
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.708.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.708.1.tgz
     version: 1.708.1
   - apiVersion: v2
     appVersion: 1.708.0
     created: "2025-11-08T08:45:55.115582382Z"
     description: A Helm chart for Kubernetes
     digest: 55093a42a9c24d2928b29bd2dfa1c6ee1e6af88d25f1a6140ed2ba6a4ad675f2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.708.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.708.0.tgz
     version: 1.708.0
   - apiVersion: v2
     appVersion: 1.707.0
     created: "2025-11-08T06:24:35.805614319Z"
     description: A Helm chart for Kubernetes
     digest: 92313378effdeda0c850868b19d761e44a576c8be1b77f677f0fddf290fe11d3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.707.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.707.0.tgz
     version: 1.707.0
   - apiVersion: v2
     appVersion: 1.706.0
     created: "2025-11-07T15:57:52.732252675Z"
     description: A Helm chart for Kubernetes
     digest: 48784cea5f385e5f2bdef8690ceeeec6258d326863cdca46ce22f29a4329e6b5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.706.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.706.0.tgz
     version: 1.706.0
   - apiVersion: v2
     appVersion: 1.705.0
     created: "2025-11-07T04:57:02.91134583Z"
     description: A Helm chart for Kubernetes
     digest: bb9dcee38035df60759c5b00c30e96f3ad62cb75adb309a0d1bfdc0997d45c1c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.705.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.705.0.tgz
     version: 1.705.0
   - apiVersion: v2
     appVersion: 1.704.2
     created: "2025-11-06T17:39:30.95595332Z"
     description: A Helm chart for Kubernetes
     digest: a31d8498f8fb27ab423f6eced375fe6fa7cbff93b33e6fb727ff0151a4f962cb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.704.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.704.2.tgz
     version: 1.704.2
   - apiVersion: v2
     appVersion: 1.704.1
     created: "2025-11-06T15:41:26.399122505Z"
     description: A Helm chart for Kubernetes
     digest: d92700fdb220ff019f12ba9eff870e31abdfc74c74265219baa9be9c853cb6b6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.704.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.704.1.tgz
     version: 1.704.1
   - apiVersion: v2
     appVersion: 1.704.0
     created: "2025-11-06T14:29:28.019276712Z"
     description: A Helm chart for Kubernetes
     digest: e2f044ce0e56731d31b0b30a6563a6468a687ed8316b0208068294a7fe75c1aa
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.704.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.704.0.tgz
     version: 1.704.0
   - apiVersion: v2
     appVersion: 1.703.0
     created: "2025-11-06T13:37:27.558663634Z"
     description: A Helm chart for Kubernetes
     digest: 5c60c67576713c0b8fdd31e6b920dfc2dddfa82356c28a8a8421813b1a80219e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.703.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.703.0.tgz
     version: 1.703.0
   - apiVersion: v2
     appVersion: 1.702.0
     created: "2025-11-06T09:05:23.434355728Z"
     description: A Helm chart for Kubernetes
     digest: a0c6216307dd24357437b623ab0c45a8955c484a47464a10cc702d2fe88ce898
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.702.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.702.0.tgz
     version: 1.702.0
   - apiVersion: v2
     appVersion: 1.701.0
     created: "2025-11-06T04:02:27.542406267Z"
     description: A Helm chart for Kubernetes
     digest: 7cfae7105f94dda69069b2fd50f623b8b8bcce7512cef2edf1142af39e3c4d3f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.701.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.701.0.tgz
     version: 1.701.0
   - apiVersion: v2
     appVersion: 1.700.2
     created: "2025-11-06T02:05:23.238612351Z"
     description: A Helm chart for Kubernetes
     digest: 76dc91f9cdb80893b055e664e7123faff99583037ec1a9bf1c10bc66a93e5e81
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.700.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.700.2.tgz
     version: 1.700.2
   - apiVersion: v2
     appVersion: 1.700.1
     created: "2025-11-05T17:36:09.945880504Z"
     description: A Helm chart for Kubernetes
     digest: d7df9d888abdca05edabd983d27e02d56ee848872005c7d2bcdd114666a57e13
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.700.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.700.1.tgz
     version: 1.700.1
   - apiVersion: v2
     appVersion: 1.700.0
     created: "2025-11-05T15:56:06.830862362Z"
     description: A Helm chart for Kubernetes
     digest: b5c4f5c3dc124d9f8b78bdf8d37dcdc5a1a0bf411a2201ab36c7455f368fbf99
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.700.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.700.0.tgz
     version: 1.700.0
   - apiVersion: v2
     appVersion: 1.698.0
     created: "2025-11-05T08:38:09.381398182Z"
     description: A Helm chart for Kubernetes
     digest: 8425bf3420eae74ab1be481206ac9f0357e2758ea2d3e0c8b02bc881119855f8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.698.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.698.0.tgz
     version: 1.698.0
   - apiVersion: v2
     appVersion: 1.697.3
     created: "2025-11-05T08:22:24.352230493Z"
     description: A Helm chart for Kubernetes
     digest: de972f23b54550c510265148c511c05a2d4bcb2c45a913c1aab2526e2a6790dd
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.697.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.697.3.tgz
     version: 1.697.3
   - apiVersion: v2
     appVersion: 1.697.2
     created: "2025-11-05T08:13:58.162912899Z"
     description: A Helm chart for Kubernetes
     digest: 98caa603df13ca14d3f23abd9bc5f1696c31fcda7c9b6732c9140c46e82e790d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.697.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.697.2.tgz
     version: 1.697.2
   - apiVersion: v2
     appVersion: 1.697.1
     created: "2025-11-05T04:32:09.514558288Z"
     description: A Helm chart for Kubernetes
     digest: 38c4c0e1dcb023a4017a946030a972e898d4b8ed5e297ea8eda3b842f43e5b97
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.697.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.697.1.tgz
     version: 1.697.1
   - apiVersion: v2
     appVersion: 1.697.0
     created: "2025-11-05T03:40:55.806990281Z"
     description: A Helm chart for Kubernetes
     digest: cad9e946fdf2c72706712a023ad28fa77bdbbd2b43918a0cd8f80c3e26e20d7c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.697.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.697.0.tgz
     version: 1.697.0
   - apiVersion: v2
     appVersion: 1.696.6
     created: "2025-11-05T03:03:11.460907353Z"
     description: A Helm chart for Kubernetes
     digest: 7d660e7419242ca2eaec14cd2844b55fdb4455a0b01286c56121790eaaab2283
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.6.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.6.tgz
     version: 1.696.6
   - apiVersion: v2
     appVersion: 1.696.5
     created: "2025-11-05T02:29:54.255767779Z"
     description: A Helm chart for Kubernetes
     digest: 7b07c354daaa0e0a7fa6de35bed112603a8185ef751b711c89e8064eab70a825
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.5.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.5.tgz
     version: 1.696.5
   - apiVersion: v2
     appVersion: 1.696.4
     created: "2025-11-04T19:06:38.364754786Z"
     description: A Helm chart for Kubernetes
     digest: 7e19c3467ef8ea643f541e1cb5b42c692a9a07f3db93d78879591ed96558e394
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.4.tgz
     version: 1.696.4
   - apiVersion: v2
     appVersion: 1.696.3
     created: "2025-11-04T18:30:02.670979186Z"
     description: A Helm chart for Kubernetes
     digest: a1cd2e6349db9c1300fee9941cf28a982ab9ca44c5ed8d83436d76bab0b70cf2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.3.tgz
     version: 1.696.3
   - apiVersion: v2
     appVersion: 1.696.2
     created: "2025-11-04T17:39:08.233887371Z"
     description: A Helm chart for Kubernetes
     digest: 6cb2c4dcc5ae70f75db068ba5dd8ad64fdc13ef7546cb07fdca71391809f0c28
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.2.tgz
     version: 1.696.2
   - apiVersion: v2
     appVersion: 1.696.1
     created: "2025-11-04T09:08:13.773968203Z"
     description: A Helm chart for Kubernetes
     digest: fd8d0d873c46145b3652322b4c6239941d0e3957445f97fcde3980612bb6114b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.1.tgz
     version: 1.696.1
   - apiVersion: v2
     appVersion: 1.696.0
     created: "2025-11-04T06:03:00.588971811Z"
     description: A Helm chart for Kubernetes
     digest: e5e21bc0f005d1eef46f57d8c5cdb97a23ae8ff770fc304e6dcd5dcfee76a2f2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.696.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.696.0.tgz
     version: 1.696.0
   - apiVersion: v2
     appVersion: 1.695.1
     created: "2025-11-03T10:26:16.374907603Z"
     description: A Helm chart for Kubernetes
     digest: 0881232e26dedf91fcd5015674d7f7b676b4a0219e6c39ae3445e6e66aa90837
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.695.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.695.1.tgz
     version: 1.695.1
   - apiVersion: v2
     appVersion: 1.695.0
     created: "2025-11-03T09:32:00.36919251Z"
     description: A Helm chart for Kubernetes
     digest: 81320107adc562918c2f9b1f2522ff2a06fe2db269708ea817e798aeec2d5571
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.695.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.695.0.tgz
     version: 1.695.0
   - apiVersion: v2
     appVersion: 1.694.2
     created: "2025-11-03T06:55:51.207142698Z"
     description: A Helm chart for Kubernetes
     digest: 117e1c417b3d901870209a5a9b462de9f6ea363a53680a548310bc462ebab27f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.694.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.694.2.tgz
     version: 1.694.2
   - apiVersion: v2
     appVersion: 1.694.1
     created: "2025-11-03T04:47:29.465928182Z"
     description: A Helm chart for Kubernetes
     digest: bed176eb9ac22727677fabc5fcdb4818973e66a586500a11605849799d9ecc58
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.694.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.694.1.tgz
     version: 1.694.1
   - apiVersion: v2
     appVersion: 1.694.0
     created: "2025-11-03T04:07:25.803594192Z"
     description: A Helm chart for Kubernetes
     digest: 92f637869d187bff8e60d5b902904c265f7099d70abec6de95e4b4803fd79f44
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.694.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.694.0.tgz
     version: 1.694.0
   - apiVersion: v2
     appVersion: 1.693.1
     created: "2025-11-03T02:27:09.42819236Z"
     description: A Helm chart for Kubernetes
     digest: ea3c9b15548876ab2f5100fb305f8d428c405147de62f21796ec4d184e8b7873
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.693.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.693.1.tgz
     version: 1.693.1
   - apiVersion: v2
     appVersion: 1.693.0
     created: "2025-11-03T01:54:46.987423444Z"
     description: A Helm chart for Kubernetes
     digest: 542a34ec333464c2c82a75ea4de7e9cf079bf4b9272626c931e6e7bc79adbe8c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.693.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.693.0.tgz
     version: 1.693.0
   - apiVersion: v2
     appVersion: 1.692.5
     created: "2025-11-02T18:35:24.377034188Z"
     description: A Helm chart for Kubernetes
     digest: 9636d21475fc0a4f61ac3a594ebb53eff0837851d39ebff5e1164aedaf48ecdf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.5.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.5.tgz
     version: 1.692.5
   - apiVersion: v2
     appVersion: 1.692.4
     created: "2025-11-02T18:17:08.580243049Z"
     description: A Helm chart for Kubernetes
     digest: 3cd72543b4caa89813b836962b9e166cef2bbe00e66dbe2e052acaace3f25cb8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.4.tgz
     version: 1.692.4
   - apiVersion: v2
     appVersion: 1.692.3
     created: "2025-11-02T17:19:23.915071136Z"
     description: A Helm chart for Kubernetes
     digest: 69e08da8b5c9add7846c015dcb9662c2d3080b76ff5a608d4d695062792be82c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.3.tgz
     version: 1.692.3
   - apiVersion: v2
     appVersion: 1.692.2
     created: "2025-11-02T17:11:35.171540888Z"
     description: A Helm chart for Kubernetes
     digest: d997d3c255b970272007f6283ffb9ad9f545793066220f10851d6c3d4ef67d89
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.2.tgz
     version: 1.692.2
   - apiVersion: v2
     appVersion: 1.692.1
     created: "2025-11-02T16:56:10.53675266Z"
     description: A Helm chart for Kubernetes
     digest: 588a72968890c57fdbfafd7251b8cc16038f6e9424e607dbb400f6492214eb8d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.1.tgz
     version: 1.692.1
   - apiVersion: v2
     appVersion: 1.692.0
     created: "2025-11-02T16:28:28.69850758Z"
     description: A Helm chart for Kubernetes
     digest: c119a869ae135752735040f09adb2ed893a7010f17bae4735e6499234bbb0c5d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.692.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.692.0.tgz
     version: 1.692.0
   - apiVersion: v2
     appVersion: 1.691.4
     created: "2025-11-02T08:05:40.848646113Z"
     description: A Helm chart for Kubernetes
     digest: dbc64fbe01285b9685c7b3744794128366a0ae36f325e1164c374ec2e99256db
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.691.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.691.4.tgz
     version: 1.691.4
   - apiVersion: v2
     appVersion: 1.691.3
     created: "2025-11-02T07:22:59.640204715Z"
     description: A Helm chart for Kubernetes
     digest: 84edd72d82060002609f3c8e6d474d5dd20fb0aed8fcb0a2be576fb95629c0b5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.691.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.691.3.tgz
     version: 1.691.3
   - apiVersion: v2
     appVersion: 1.691.2
     created: "2025-11-02T06:54:27.852965961Z"
     description: A Helm chart for Kubernetes
     digest: 3c515cb885fcd43d54e7c52e4df0ae0e98579a635f842a09729102d07fcd29e1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.691.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.691.2.tgz
     version: 1.691.2
   - apiVersion: v2
     appVersion: 1.691.1
     created: "2025-11-02T06:18:06.732165011Z"
     description: A Helm chart for Kubernetes
     digest: 1d05d097fd41d89b4a2fd9815399c5c54442e061538784d5e450a0870ebee6b1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.691.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.691.1.tgz
     version: 1.691.1
   - apiVersion: v2
     appVersion: 1.691.0
     created: "2025-11-02T04:09:30.914302585Z"
     description: A Helm chart for Kubernetes
     digest: 4b624261f9244d9c3ab27965e4dd95ee6c560187bec1cacd6976b67661c89de2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.691.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.691.0.tgz
     version: 1.691.0
   - apiVersion: v2
     appVersion: 1.690.4
     created: "2025-11-02T03:48:36.663132455Z"
     description: A Helm chart for Kubernetes
     digest: 079d9efbb79749885ff9197b9dfb20b54e78169cf78f0d3fc6e9bb109fa4ef5d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.690.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.690.4.tgz
     version: 1.690.4
   - apiVersion: v2
     appVersion: 1.690.3
     created: "2025-11-02T03:30:06.088141919Z"
     description: A Helm chart for Kubernetes
     digest: 149261333f7d9f7bc0038d0fe1d1bc7d99f8cc9b1ebb0c7dd400d554113d2a60
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.690.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.690.3.tgz
     version: 1.690.3
   - apiVersion: v2
     appVersion: 1.690.2
     created: "2025-11-02T02:54:47.110237488Z"
     description: A Helm chart for Kubernetes
     digest: 33200359119c69fd0856db44955a02509d9b041f43c7f18a9c23873c50273774
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.690.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.690.2.tgz
     version: 1.690.2
   - apiVersion: v2
     appVersion: 1.690.1
     created: "2025-11-02T02:39:33.012709834Z"
     description: A Helm chart for Kubernetes
     digest: 5c04076e894a413ab6e8de94c8864212a9f3464d6cffa69be51948405dba1174
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.690.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.690.1.tgz
     version: 1.690.1
   - apiVersion: v2
     appVersion: 1.690.0
     created: "2025-11-01T18:35:09.757831581Z"
     description: A Helm chart for Kubernetes
     digest: 83d621800d5dc764091e5bde7d7aa7bbf052c4bb5bbdd26a6eccf0ceac76e596
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.690.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.690.0.tgz
     version: 1.690.0
   - apiVersion: v2
     appVersion: 1.689.3
     created: "2025-11-01T17:39:40.489646163Z"
     description: A Helm chart for Kubernetes
     digest: a32df1b7414b91ab8a64f0f0a016b76912f7e3e63f390005d209c1d64a152d3e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.689.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.689.3.tgz
     version: 1.689.3
   - apiVersion: v2
     appVersion: 1.689.2
     created: "2025-11-01T17:22:11.090177257Z"
     description: A Helm chart for Kubernetes
     digest: bab7a9027a7635a15f01d63f42997374eb151bb390eaea82efc28c58eaabc0bc
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.689.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.689.2.tgz
     version: 1.689.2
   - apiVersion: v2
     appVersion: 1.689.1
     created: "2025-11-01T17:00:05.319574459Z"
     description: A Helm chart for Kubernetes
     digest: afc8b86deff209ea466bff49bb5ddf3df54a5b5c7682ba272203c10a712bf10d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.689.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.689.1.tgz
     version: 1.689.1
   - apiVersion: v2
     appVersion: 1.689.0
     created: "2025-11-01T15:17:00.855919736Z"
     description: A Helm chart for Kubernetes
     digest: 597247f3df5faea7f7e895255d200ca2449dbdd7b4871a581998f81823b66d49
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.689.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.689.0.tgz
     version: 1.689.0
   - apiVersion: v2
     appVersion: 1.688.4
     created: "2025-11-01T13:49:45.531563818Z"
     description: A Helm chart for Kubernetes
     digest: 10d78de628e040d97739d6270a6bef79c20ba387a7f768ccf88f9f1624fa09e4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.688.4.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.688.4.tgz
     version: 1.688.4
   - apiVersion: v2
     appVersion: 1.688.3
     created: "2025-11-01T13:28:22.687784218Z"
     description: A Helm chart for Kubernetes
     digest: 895e68b71c7f7ae77d5b146e2bf8b139f7eb7cce7ca74bf9a2bf1bcd25310e44
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.688.3.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.688.3.tgz
     version: 1.688.3
   - apiVersion: v2
     appVersion: 1.688.2
     created: "2025-11-01T09:17:48.503726626Z"
     description: A Helm chart for Kubernetes
     digest: dcffbe32e02738c1ed79bb3fee305a0ec719ec9ba694b2598aacde689b6de367
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.688.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.688.2.tgz
     version: 1.688.2
   - apiVersion: v2
     appVersion: 1.688.1
     created: "2025-11-01T08:11:28.796615826Z"
     description: A Helm chart for Kubernetes
     digest: c98c37aee616e58ee8e9f10c79a77c2f961d0caf4cb9648de2c5407dcc722db4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.688.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.688.1.tgz
     version: 1.688.1
   - apiVersion: v2
     appVersion: 1.688.0
     created: "2025-11-01T05:43:13.427126531Z"
     description: A Helm chart for Kubernetes
     digest: 29af4eedc028bfe0b9d3eee77b90fb0c79437462f22c361a9d3bc8edabbb3131
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.688.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.688.0.tgz
     version: 1.688.0
   - apiVersion: v2
     appVersion: 1.687.1
     created: "2025-11-01T03:32:17.09986606Z"
     description: A Helm chart for Kubernetes
     digest: 3f8d566839ce3878ea5b258287d568ee938558f751138922aad39227540ff608
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.687.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.687.1.tgz
     version: 1.687.1
   - apiVersion: v2
     appVersion: 1.687.0
     created: "2025-10-31T17:57:38.292865793Z"
     description: A Helm chart for Kubernetes
     digest: 548eece03645981cb1c400fd1b2e18b28b2d2ef87aaf47721adc59ee08212d74
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.687.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.687.0.tgz
     version: 1.687.0
   - apiVersion: v2
     appVersion: 1.686.1
     created: "2025-10-31T16:31:41.51530518Z"
     description: A Helm chart for Kubernetes
     digest: 51c5b98a2fe5d56f935f8f5f851d1a024af5cf26e5efd49f931253863c37caf9
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.686.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.686.1.tgz
     version: 1.686.1
   - apiVersion: v2
     appVersion: 1.686.0
     created: "2025-10-31T12:50:23.158541908Z"
     description: A Helm chart for Kubernetes
     digest: 956cf239ff73427ec8bc5e5b21718b72d02edf70ec68637f01a5f7db6cdedd91
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.686.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.686.0.tgz
     version: 1.686.0
   - apiVersion: v2
     appVersion: 1.685.2
     created: "2025-10-31T06:10:40.310901031Z"
     description: A Helm chart for Kubernetes
     digest: 596d0fe23b3443c99ae20bdf42793648959ffaaac8dbc13e584b94e05672f46d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.685.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.685.2.tgz
     version: 1.685.2
   - apiVersion: v2
     appVersion: 1.685.1
     created: "2025-10-30T17:48:10.450173464Z"
     description: A Helm chart for Kubernetes
     digest: be651497234a18a9ca919e3e5507535295b01e9c11e67a9cf8c3e9f05469c334
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.685.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.685.1.tgz
     version: 1.685.1
   - apiVersion: v2
     appVersion: 1.685.0
     created: "2025-10-30T17:10:39.956558513Z"
     description: A Helm chart for Kubernetes
     digest: e53cb890d9e7d27323cdf38049d9f35244bfb76e0430ec5f9f0723873eee22d7
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.685.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.685.0.tgz
     version: 1.685.0
   - apiVersion: v2
     appVersion: 1.684.0
     created: "2025-10-30T13:47:04.663800876Z"
     description: A Helm chart for Kubernetes
     digest: f63dc667857aa02593a6b4bdaad55d0de5212b389eee6b1a4fbaf66c07b67429
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.684.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.684.0.tgz
     version: 1.684.0
   - apiVersion: v2
     appVersion: 1.683.0
     created: "2025-10-30T13:02:35.530419013Z"
     description: A Helm chart for Kubernetes
     digest: abccdf5341825baf0077a3df58f438e6ea0e8837ec887fe88ced33c41591c289
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.683.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.683.0.tgz
     version: 1.683.0
   - apiVersion: v2
     appVersion: 1.682.1
     created: "2025-10-30T12:49:30.413452956Z"
     description: A Helm chart for Kubernetes
     digest: e2bb4db781c6014a5a40f55590cfea75860e30b8084d1cc5e4d018745098cf5e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.682.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.682.1.tgz
     version: 1.682.1
   - apiVersion: v2
     appVersion: 1.682.0
     created: "2025-10-30T09:53:58.692874751Z"
     description: A Helm chart for Kubernetes
     digest: 36225357306429b3288e162db560a08bc2eee745bbf23e833211740ae46244b8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.682.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.682.0.tgz
     version: 1.682.0
   - apiVersion: v2
     appVersion: 1.681.0
     created: "2025-10-30T01:59:54.886058327Z"
     description: A Helm chart for Kubernetes
     digest: a660e232533857e4d8106fe9d3c284ae2a2107ddca5b5b43dd654c5c23899f97
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.681.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.681.0.tgz
     version: 1.681.0
   - apiVersion: v2
     appVersion: 1.680.1
     created: "2025-10-29T18:58:27.508365824Z"
     description: A Helm chart for Kubernetes
     digest: fce89c45d347db8ef4ff97b6c9d4e6278e8bda844da88668a4b1bf22399aed2f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.680.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.680.1.tgz
     version: 1.680.1
   - apiVersion: v2
     appVersion: 1.680.0
     created: "2025-10-29T18:30:28.094602849Z"
     description: A Helm chart for Kubernetes
     digest: b79c1a5f5b11f4ed4234d34844de10567072c51ca0f883c2bfddb52d43f73045
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.680.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.680.0.tgz
     version: 1.680.0
   - apiVersion: v2
     appVersion: 1.679.0
     created: "2025-10-29T18:18:28.617591044Z"
     description: A Helm chart for Kubernetes
     digest: e8e0d70687b9df609d4ba67d62b7db1575957becee34666ee6f0d4913b9466ad
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.679.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.679.0.tgz
     version: 1.679.0
   - apiVersion: v2
     appVersion: 1.678.0
     created: "2025-10-29T17:59:18.721479965Z"
     description: A Helm chart for Kubernetes
     digest: 5cf1ab417c986eca592086cd2d1c1317aeb7efc5299752fb8dea6ec1c9bc5301
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.678.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.678.0.tgz
     version: 1.678.0
   - apiVersion: v2
     appVersion: 1.677.2
     created: "2025-10-29T16:52:00.558668758Z"
     description: A Helm chart for Kubernetes
     digest: c21635e18ae53da22a3ba2ccdc466c7667377f98c942bc0fd5cb446263fa9db3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.677.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.677.2.tgz
     version: 1.677.2
   - apiVersion: v2
     appVersion: 1.677.1
     created: "2025-10-29T16:45:49.452395985Z"
     description: A Helm chart for Kubernetes
     digest: 343f3c797fc042ebfe17dc56952a45cabfb4fc0a216d6b20a6fa3f42868714bd
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.677.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.677.1.tgz
     version: 1.677.1
   - apiVersion: v2
     appVersion: 1.677.0
     created: "2025-10-29T16:39:47.234950668Z"
     description: A Helm chart for Kubernetes
     digest: b506cd15b5974fbde223281659ad27470219d173eacc88de00191b01374bc57a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.677.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.677.0.tgz
     version: 1.677.0
   - apiVersion: v2
     appVersion: 1.676.0
     created: "2025-10-29T16:24:29.374264164Z"
     description: A Helm chart for Kubernetes
     digest: dcfa7b399098b6b343fb7d6799e1ea603d723076bd3c44fba3aee7a9b00319d1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.676.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.676.0.tgz
     version: 1.676.0
   - apiVersion: v2
     appVersion: 1.675.2
     created: "2025-10-29T16:06:32.059426329Z"
     description: A Helm chart for Kubernetes
     digest: 8a8c2d774d466f882a68616bfd33b52e182e7bcbb9e521ba42ed9c69aa6b3ce5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.675.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.675.2.tgz
     version: 1.675.2
   - apiVersion: v2
     appVersion: 1.675.1
     created: "2025-10-29T15:20:19.412795753Z"
     description: A Helm chart for Kubernetes
     digest: 0cafad0f4d01d219ba536121523d8dd04560fbaf4a8ae6b6107e5bcb287349b8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.675.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.675.1.tgz
     version: 1.675.1
   - apiVersion: v2
     appVersion: 1.675.0
     created: "2025-10-29T14:47:50.191547969Z"
     description: A Helm chart for Kubernetes
     digest: 2e787df2b60c024d1f1f37a9ef4c47c82702af10236a55d6694d43c72a045d59
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.675.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.675.0.tgz
     version: 1.675.0
   - apiVersion: v2
     appVersion: 1.674.1
     created: "2025-10-29T13:49:19.648814693Z"
     description: A Helm chart for Kubernetes
     digest: f8295ba6230e763610e621605af9e977f4f6c9a54406c4b9a5fca1abddad07d6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.674.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.674.1.tgz
     version: 1.674.1
   - apiVersion: v2
     appVersion: 1.674.0
     created: "2025-10-29T13:16:58.880157016Z"
     description: A Helm chart for Kubernetes
     digest: c9be950f063b419c6278ada03b8e445be22a2e370064362ea44891c136275d24
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.674.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.674.0.tgz
     version: 1.674.0
   - apiVersion: v2
     appVersion: 1.673.0
     created: "2025-10-29T12:35:11.934440177Z"
     description: A Helm chart for Kubernetes
     digest: 52fefa22d7c6493d3d6c0790711e4f7fd4f22ac8173dc9cd02a3f21dc32a8b49
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.673.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.673.0.tgz
     version: 1.673.0
   - apiVersion: v2
     appVersion: 1.672.0
     created: "2025-10-28T14:20:49.442065295Z"
     description: A Helm chart for Kubernetes
     digest: e3e8b002c5e6b5f7a21582d98544828174b5a5a521f09847cec76e8027280de2
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.672.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.672.0.tgz
     version: 1.672.0
   - apiVersion: v2
     appVersion: 1.671.0
     created: "2025-10-28T09:57:53.501558618Z"
     description: A Helm chart for Kubernetes
     digest: f2b31d30f9d7dac2ea369060246137884d535d958f2ec6ee5f1c2cb462366d10
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.671.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.671.0.tgz
     version: 1.671.0
   - apiVersion: v2
     appVersion: 1.670.1
     created: "2025-10-28T09:36:27.022234012Z"
     description: A Helm chart for Kubernetes
     digest: 42556b16f4a08e8bca53513f67a92a4c10d8853e36b605c1848a4ad438c59650
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.670.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.670.1.tgz
     version: 1.670.1
   - apiVersion: v2
     appVersion: 1.670.0
     created: "2025-10-28T09:06:20.994273415Z"
     description: A Helm chart for Kubernetes
     digest: 2cb42ffb098c9852da315e308597c71514c5874ec3ebc05c614297e568d2f2e1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.670.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.670.0.tgz
     version: 1.670.0
   - apiVersion: v2
     appVersion: 1.669.0
     created: "2025-10-28T08:26:33.259426137Z"
     description: A Helm chart for Kubernetes
     digest: cf69bb43854ec0656f14945ac79db59726bbf8ee4fa94fd2c80c9c4cdf0b1cb1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.669.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.669.0.tgz
     version: 1.669.0
   - apiVersion: v2
     appVersion: 1.668.1
     created: "2025-10-28T07:21:16.3070427Z"
     description: A Helm chart for Kubernetes
     digest: 8b3d4135b4668f7f81ea46b41922b2f7023eedb407057ca3d4fe6a7c2ef62797
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.668.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.668.1.tgz
     version: 1.668.1
   - apiVersion: v2
     appVersion: 1.668.0
     created: "2025-10-28T06:48:01.095482816Z"
     description: A Helm chart for Kubernetes
     digest: 5039a2d4c3f1175bf8d5d899427f22077799e97a4190e494915ff555dda5664a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.668.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.668.0.tgz
     version: 1.668.0
   - apiVersion: v2
     appVersion: 1.667.1
     created: "2025-10-27T16:57:24.108725645Z"
     description: A Helm chart for Kubernetes
     digest: bbb3b8c600c27d44e9bed69228a8f61be0109f38cc38a78f1c20f5f00b96d949
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.667.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.667.1.tgz
     version: 1.667.1
   - apiVersion: v2
     appVersion: 1.667.0
     created: "2025-10-27T15:00:48.21291347Z"
     description: A Helm chart for Kubernetes
     digest: 5d78fbd0212ff3baf89d48d80a3a5495a4dbdcf010888b20e7f4d8bfb2ef3136
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.667.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.667.0.tgz
     version: 1.667.0
   - apiVersion: v2
     appVersion: 1.666.0
     created: "2025-10-27T13:51:32.364488543Z"
     description: A Helm chart for Kubernetes
     digest: 34f5295ecb414fcaacd6508ba02f7785721f5b1250b8a0db0ea9a0653b4bb353
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.666.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.666.0.tgz
     version: 1.666.0
   - apiVersion: v2
     appVersion: 1.665.2
     created: "2025-10-27T10:25:43.103184113Z"
     description: A Helm chart for Kubernetes
     digest: b0b4f27354baee0f7db7dd459a67df765ef841e49ebe47ada1aeb6742c9d3161
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.665.2.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.665.2.tgz
     version: 1.665.2
   - apiVersion: v2
     appVersion: 1.665.1
     created: "2025-10-27T07:38:47.75472189Z"
     description: A Helm chart for Kubernetes
     digest: af8d31cfabd22d667fef66f3f1838bb9327cde3b279f753872229fd900f4b321
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.665.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.665.1.tgz
     version: 1.665.1
   - apiVersion: v2
     appVersion: 1.665.0
     created: "2025-10-27T01:55:23.799087401Z"
     description: A Helm chart for Kubernetes
     digest: 6d7a2887d76df6e7c50127e8301bf52cc01dd5d7c30a39ed881f0df41d72e97f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.665.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.665.0.tgz
     version: 1.665.0
   - apiVersion: v2
     appVersion: 1.664.1
     created: "2025-10-27T01:46:26.514120411Z"
     description: A Helm chart for Kubernetes
     digest: b7a5fd71a4fde1110a65acfa0a93146ba63832bb76212541a6dd94aa26b0da8a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.664.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.664.1.tgz
     version: 1.664.1
   - apiVersion: v2
     appVersion: 1.664.0
     created: "2025-10-26T17:29:07.630072276Z"
     description: A Helm chart for Kubernetes
     digest: 4d7c1ea8e7ab04bbc7b145c02c47dfa51b2bd6e93ca7778dca728c380cf09ceb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.664.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.664.0.tgz
     version: 1.664.0
   - apiVersion: v2
     appVersion: 1.663.0
     created: "2025-10-26T16:42:24.939510525Z"
     description: A Helm chart for Kubernetes
     digest: 1c1a4e91829cfcafa9065e49c8cee1df50dfc0976ac296c0efa83296dd7fe03a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.663.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.663.0.tgz
     version: 1.663.0
   - apiVersion: v2
     appVersion: 1.662.0
     created: "2025-10-26T16:26:53.879131986Z"
     description: A Helm chart for Kubernetes
     digest: 588e15c1ee1ee5df59fba2776139a9821e1533885f50f59c73d4853533958ed9
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.662.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.662.0.tgz
     version: 1.662.0
   - apiVersion: v2
     appVersion: 1.661.0
     created: "2025-10-24T14:42:04.012242076Z"
     description: A Helm chart for Kubernetes
     digest: d852b9b195a9c47b6a52c1a19e0a76f59dca384cab33e5aeddc3d343481d16cf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.661.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.661.0.tgz
     version: 1.661.0
   - apiVersion: v2
     appVersion: 1.660.0
     created: "2025-10-24T12:29:34.261000471Z"
     description: A Helm chart for Kubernetes
     digest: 0995eead9458c4fcb55738628c6f739151b1580c4cb24bfd9478ae4a51baefcf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.660.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.660.0.tgz
     version: 1.660.0
   - apiVersion: v2
     appVersion: 1.659.0
     created: "2025-10-22T19:13:36.19200113Z"
     description: A Helm chart for Kubernetes
     digest: 3044a88341d60975428c35a781df92f5dfde2d49ff51ff4f9b09e50cb152186c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.659.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.659.0.tgz
     version: 1.659.0
   - apiVersion: v2
     appVersion: 1.658.0
     created: "2025-10-22T18:17:53.800925561Z"
     description: A Helm chart for Kubernetes
     digest: c0143dbdecf0edd669b1928c6ff3ef1a41361f2c603c76a4e0bc84897e96efc7
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.658.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.658.0.tgz
     version: 1.658.0
   - apiVersion: v2
     appVersion: 1.657.0
     created: "2025-10-22T17:54:32.260659581Z"
     description: A Helm chart for Kubernetes
     digest: b43b9d5532b496434da7cc3903592b1881d422af23b9d2d9c6dca72ffea5cbb8
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.657.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.657.0.tgz
     version: 1.657.0
   - apiVersion: v2
     appVersion: 1.656.1
     created: "2025-10-22T17:39:40.841690546Z"
     description: A Helm chart for Kubernetes
     digest: bf58231b3e33b35fc760c8256695131b5b4f2f798ed6361c9e91fd30a09c3995
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.656.1.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.656.1.tgz
     version: 1.656.1
   - apiVersion: v2
     appVersion: 1.656.0
     created: "2025-10-22T16:32:26.957578951Z"
     description: A Helm chart for Kubernetes
     digest: b9e0c8f25b86ac811c57b74b30837c95e75317f1bec648f7925763056c597371
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.656.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.656.0.tgz
     version: 1.656.0
   - apiVersion: v2
     appVersion: 1.655.0
     created: "2025-10-22T15:05:16.328095201Z"
     description: A Helm chart for Kubernetes
     digest: fa61c0d19e8a1bb659e6905c3abc7e7a5bda5d00c1a9fb5c26b967b06ebeed12
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.655.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.655.0.tgz
     version: 1.655.0
   - apiVersion: v2
     appVersion: 1.654.0
     created: "2025-10-22T12:43:13.962992066Z"
     description: A Helm chart for Kubernetes
     digest: c26ba3df50e4e680ee2cdd7e5aefbe4dbf9b67e789594534f96a8ed18821d281
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.654.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.654.0.tgz
     version: 1.654.0
   - apiVersion: v2
     appVersion: 1.653.0
     created: "2025-10-22T06:51:21.676150356Z"
     description: A Helm chart for Kubernetes
     digest: 3385514e0f8d4c5c9d3400af6c7bf6ec3b0bfd26f059f59a4a26fd7c194faf1a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.653.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.653.0.tgz
     version: 1.653.0
   - apiVersion: v2
     appVersion: 1.652.0
     created: "2025-10-21T10:42:11.844997912Z"
     description: A Helm chart for Kubernetes
     digest: 44b24609942061bde87ea4fec6f7955686aa8646c1be15fbdc8b0abe44b232fd
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.652.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.652.0.tgz
     version: 1.652.0
   - apiVersion: v2
     appVersion: 1.651.0
     created: "2025-10-21T08:03:07.286974092Z"
     description: A Helm chart for Kubernetes
     digest: 6e8b3850c6f48cda7a213ea3182d88e69cd808c1e10b11cd49e27c234544bd9c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.651.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.651.0.tgz
     version: 1.651.0
   - apiVersion: v2
     appVersion: 1.650.0
     created: "2025-10-21T01:12:11.413262448Z"
     description: A Helm chart for Kubernetes
     digest: 47b4823976f653abc9bbb665d0252f1093b73ab57b88e238ffe1a3de6307341c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.650.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.650.0.tgz
     version: 1.650.0
   - apiVersion: v2
     appVersion: 1.649.0
     created: "2025-10-20T18:23:46.575314951Z"
     description: A Helm chart for Kubernetes
     digest: 58558c61697f9bc6d4b93edad20191f7f9e87c1ec382d1de965aff6b27a856a1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.649.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.649.0.tgz
     version: 1.649.0
   - apiVersion: v2
     appVersion: 1.648.0
     created: "2025-10-19T17:31:48.677102357Z"
     description: A Helm chart for Kubernetes
     digest: 6a70b7a141fc1a8779a0e93fe987d15c69f548dfd8124630ed4e2c3729102d0c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.648.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.648.0.tgz
     version: 1.648.0
   - apiVersion: v2
     appVersion: 1.647.0
     created: "2025-10-15T17:51:25.778018753Z"
     description: A Helm chart for Kubernetes
     digest: 4915de9c854db55cdd8628001b209abefb2431bbe057a08188e1d110505fa6cf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.647.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.647.0.tgz
     version: 1.647.0
   - apiVersion: v2
     appVersion: 1.646.0
     created: "2025-10-14T16:43:48.723447768Z"
     description: A Helm chart for Kubernetes
     digest: 4d2c9e55b656cd5aa408d162f753474a7a52a531736f8a5476fd0395a8223851
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.646.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.646.0.tgz
     version: 1.646.0
   - apiVersion: v2
     appVersion: 1.645.0
     created: "2025-10-14T16:02:16.197564587Z"
     description: A Helm chart for Kubernetes
     digest: ad458abb139bc2a4d8880c8e1bc65a2eec9a21718ceca5a9c1c7cbfd7a5bc715
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.645.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.645.0.tgz
     version: 1.645.0
   - apiVersion: v2
     appVersion: 1.644.0
     created: "2025-10-14T10:45:01.59783485Z"
     description: A Helm chart for Kubernetes
     digest: 4ca73ff7e1291ef4a3b306a55a562fc6abe175ca51396a3251a469c630d44dea
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.644.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.644.0.tgz
     version: 1.644.0
   - apiVersion: v2
     appVersion: 1.643.0
     created: "2025-10-14T03:34:07.06761348Z"
     description: A Helm chart for Kubernetes
     digest: 1059f71e70985b0d1307f00f7b05ac5c6ddc7f6bb1af4bf6e8bee7b5424d506b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.643.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.643.0.tgz
     version: 1.643.0
   - apiVersion: v2
     appVersion: 1.642.0
     created: "2025-10-13T17:13:45.240735913Z"
     description: A Helm chart for Kubernetes
     digest: 6912ada6f12af222ba1ec77d12fe98c8a0418d6d1393cb9ef2b6c4b18c28151f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.642.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.642.0.tgz
     version: 1.642.0
   - apiVersion: v2
     appVersion: 1.641.0
     created: "2025-10-13T15:46:46.569245314Z"
     description: A Helm chart for Kubernetes
     digest: 328c1ca49d8eff694fbaeb397a481d3d0958825ce5325b05c4f654a8f89f6c11
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.641.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.641.0.tgz
     version: 1.641.0
   - apiVersion: v2
     appVersion: 1.640.0
     created: "2025-10-12T13:23:40.897179725Z"
     description: A Helm chart for Kubernetes
     digest: 905767b193557b64c4a4857a3145858de1d75b0f89de9545c11f9806ccf1b76f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.640.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.640.0.tgz
     version: 1.640.0
   - apiVersion: v2
     appVersion: 1.639.0
     created: "2025-10-12T12:05:02.036048342Z"
     description: A Helm chart for Kubernetes
     digest: 479857a9fc0a820fd0c464549c8f42926e336b9f662bbe752e76566a721a8105
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.639.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.639.0.tgz
     version: 1.639.0
   - apiVersion: v2
     appVersion: 1.638.0
     created: "2025-10-12T10:00:17.308779356Z"
     description: A Helm chart for Kubernetes
     digest: 738e7a60db518b6e2d6b330280ca93ff9ee91b74ea836b41ca3667f6bec782bf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.638.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.638.0.tgz
     version: 1.638.0
   - apiVersion: v2
     appVersion: 1.637.0
     created: "2025-10-12T08:37:13.411423533Z"
     description: A Helm chart for Kubernetes
     digest: 796ab886ba014f14269da264836d51f061538745762b33d0f68bf78a24c6df5f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.637.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.637.0.tgz
     version: 1.637.0
   - apiVersion: v2
     appVersion: 1.636.0
     created: "2025-10-11T12:58:06.987197156Z"
     description: A Helm chart for Kubernetes
     digest: f9a9469793cf5366c7dd10fc896b7e5367c2859c26d50179f167912b72a3a561
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.636.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.636.0.tgz
     version: 1.636.0
   - apiVersion: v2
     appVersion: 1.635.0
     created: "2025-10-11T12:34:41.308879995Z"
     description: A Helm chart for Kubernetes
     digest: c9bc4344f7aab7b8c29d6b103a64352ce5487ac35aaf6afc6516bb62228f715b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.635.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.635.0.tgz
     version: 1.635.0
   - apiVersion: v2
     appVersion: 1.634.0
     created: "2025-10-11T06:30:41.809807306Z"
     description: A Helm chart for Kubernetes
     digest: dfe3f91dce99115238c48e39f12cdc50c44bcc069c0edf52efe269e79141b762
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.634.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.634.0.tgz
     version: 1.634.0
   - apiVersion: v2
     appVersion: 1.633.0
     created: "2025-10-10T15:45:07.902086778Z"
     description: A Helm chart for Kubernetes
     digest: 2022f0c15eab1dcf349e8b264d44f46658d0c8d961ee6033392c7fd93229fb25
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.633.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.633.0.tgz
     version: 1.633.0
   - apiVersion: v2
     appVersion: 1.632.0
     created: "2025-10-06T13:52:11.736610077Z"
     description: A Helm chart for Kubernetes
     digest: bea82b347cf8910a54459b3432db849e45e0db8b23527c3f92a5b281bbfb97fa
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.632.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.632.0.tgz
     version: 1.632.0
   - apiVersion: v2
     appVersion: 1.631.0
     created: "2025-10-05T15:37:39.594814629Z"
     description: A Helm chart for Kubernetes
     digest: 660072bf22ea9695e4b286e637e458ff4dedc9cacd56256777ef0808093a334e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.631.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.631.0.tgz
     version: 1.631.0
   - apiVersion: v2
     appVersion: 1.630.0
     created: "2025-10-04T07:09:48.90180881Z"
     description: A Helm chart for Kubernetes
     digest: 061d52a67d0c750e3227c41aa8a98b9c8141a5bee5be44f83ad43f66d4032cf3
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.630.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.630.0.tgz
     version: 1.630.0
   - apiVersion: v2
     appVersion: 1.629.0
     created: "2025-10-03T03:38:26.050542339Z"
     description: A Helm chart for Kubernetes
     digest: f9378beb893766f3e68dcebe98c67ee295a9e4bfe6dc2adf910e2d49cea6d58c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.629.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.629.0.tgz
     version: 1.629.0
   - apiVersion: v2
     appVersion: 1.628.0
     created: "2025-10-02T17:44:23.195424625Z"
     description: A Helm chart for Kubernetes
     digest: 3380f76486b63c4b918ad7875a6a12d63ad331f973e110d9e501c59bd54cebdb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.628.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.628.0.tgz
     version: 1.628.0
   - apiVersion: v2
     appVersion: 1.627.0
     created: "2025-10-01T02:51:10.34995344Z"
     description: A Helm chart for Kubernetes
     digest: 8fb2c79868dcc0d74cee830a0e7ec7f102222db92390421d2cd936de2a035531
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.627.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.627.0.tgz
     version: 1.627.0
   - apiVersion: v2
     appVersion: 1.626.0
     created: "2025-09-29T15:46:59.287376676Z"
     description: A Helm chart for Kubernetes
     digest: 99e8795a0be15667c42ea26b25efef68ba343c0fdf434f0aa1a22763c6db73cf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.626.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.626.0.tgz
     version: 1.626.0
   - apiVersion: v2
     appVersion: 1.624.0
     created: "2025-09-29T10:32:43.765986669Z"
     description: A Helm chart for Kubernetes
     digest: d31eb4dea766ccb058a5d1e03cbb7e67a461c97d891f770fc93bc2a08a12aa3b
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.624.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.624.0.tgz
     version: 1.624.0
   - apiVersion: v2
     appVersion: 1.623.0
     created: "2025-09-29T09:15:36.731201333Z"
     description: A Helm chart for Kubernetes
     digest: 9e68451e1f5059d9f39221d225a665ced897b944ddc65f54c9e7ed6c44206684
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.623.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.623.0.tgz
     version: 1.623.0
   - apiVersion: v2
     appVersion: 1.622.0
     created: "2025-09-29T08:01:49.72549468Z"
     description: A Helm chart for Kubernetes
     digest: 8db9444e3513beeeb6fc1a480e9fe626a4c647594d77a878a30c6833c8246a41
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.622.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.622.0.tgz
     version: 1.622.0
   - apiVersion: v2
     appVersion: 1.621.0
     created: "2025-09-29T05:32:09.305684385Z"
     description: A Helm chart for Kubernetes
     digest: 357574c40d4dd13ecd1e9420726fb1cec4b0df6564eba7334628a2089d0e6062
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.621.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.621.0.tgz
     version: 1.621.0
   - apiVersion: v2
     appVersion: 1.620.0
     created: "2025-09-29T11:46:18.742162245Z"
     description: A Helm chart for Kubernetes
     digest: 928fdd91f996ac4adcb9b77cace0d3aabcfcd05bd7a12cea5e0e231b0e2aadeb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.620.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.620.0.tgz
     version: 1.620.0
   - apiVersion: v2
     appVersion: 1.619.0
     created: "2025-09-28T15:12:08.748082039Z"
     description: A Helm chart for Kubernetes
     digest: 5d3d85e420533ea2b040294ddfb46dab9c84312e8e76338c4aa49f125f0e5f0f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.619.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.619.0.tgz
     version: 1.619.0
   - apiVersion: v2
     appVersion: 1.618.0
     created: "2025-09-28T09:47:30.369519636Z"
     description: A Helm chart for Kubernetes
     digest: 9fd1505c5e2c50b1714f6ca651d75a4b20c3078f9b0b1f370a0968c8befbd74c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.618.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.618.0.tgz
     version: 1.618.0
   - apiVersion: v2
     appVersion: 1.617.0
     created: "2025-09-28T07:53:47.083148448Z"
     description: A Helm chart for Kubernetes
     digest: 3e582a3a48f91cb8ecf1bade752177c0c1cdceaa9f1a411fd537c050ae81fa3c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.617.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.617.0.tgz
     version: 1.617.0
   - apiVersion: v2
     appVersion: 1.616.0
     created: "2025-09-27T13:30:58.421931817Z"
     description: A Helm chart for Kubernetes
     digest: fa6f96015cac26075d39aa94bcf7d67bbdb14b8f9c330bd352a1666a2a2f7380
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.616.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.616.0.tgz
     version: 1.616.0
   - apiVersion: v2
     appVersion: 1.615.0
     created: "2025-09-27T10:34:55.509211928Z"
     description: A Helm chart for Kubernetes
     digest: a5852d9f0a8a39868f337bdd8bdfbda491154ab2a66a42beb363b64fde2df8d1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.615.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.615.0.tgz
     version: 1.615.0
   - apiVersion: v2
     appVersion: 1.614.0
     created: "2025-09-24T16:54:58.689176689Z"
     description: A Helm chart for Kubernetes
     digest: 7407414a03047c3c40454d6dc31a4609e00ce3e4d404badfbec3469fb46fd6f4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.614.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.614.0.tgz
     version: 1.614.0
   - apiVersion: v2
     appVersion: 1.612.0
     created: "2025-09-23T12:21:31.009476211Z"
     description: A Helm chart for Kubernetes
     digest: 7b396465cc7ebf601d82281429b54fb8d3a292ff5a2146ce0e131a1ec7eb5b0a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.612.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.612.0.tgz
     version: 1.612.0
   - apiVersion: v2
     appVersion: 1.610.0
     created: "2025-09-22T13:40:18.813150934Z"
     description: A Helm chart for Kubernetes
     digest: 1b3f30edfdaeb223318e92c271f8879dc6dc9e1ab55f868a0bc51145c6cfa2e6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.610.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.610.0.tgz
     version: 1.610.0
   - apiVersion: v2
     appVersion: 1.609.0
     created: "2025-09-22T10:09:27.76447884Z"
     description: A Helm chart for Kubernetes
     digest: bad8d359a2e8301715699ba759f2f0ee8f165f3200878a4b126f7ac7eb2e2129
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.609.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.609.0.tgz
     version: 1.609.0
   - apiVersion: v2
     appVersion: 1.608.0
     created: "2025-09-13T14:40:03.205958031Z"
     description: A Helm chart for Kubernetes
     digest: 6915c768038ddd18bd05e991cf800556323b4ef7f17a414664828bf4e42a9498
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.608.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.608.0.tgz
     version: 1.608.0
   - apiVersion: v2
     appVersion: 1.607.0
     created: "2025-09-12T23:10:33.468109795Z"
     description: A Helm chart for Kubernetes
     digest: 0cc9d73fdbf11cd79f886504dcb50648a2bacaa83b6e581cc14cc4741c4f3a70
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.607.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.607.0.tgz
     version: 1.607.0
   - apiVersion: v2
     appVersion: 1.606.0
     created: "2025-09-11T07:51:14.285787567Z"
     description: A Helm chart for Kubernetes
     digest: da115a2f2e096633c4292022c54e27961b4f04bfe24382d58ca9d8f3b35848d5
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.606.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.606.0.tgz
     version: 1.606.0
   - apiVersion: v2
     appVersion: 1.605.0
     created: "2025-09-10T13:50:45.988852783Z"
     description: A Helm chart for Kubernetes
     digest: eced425a5c8e6e9b1a3867e46af54c1510ee402e7bba46564f5e9a1c9002d22f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.605.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.605.0.tgz
     version: 1.605.0
   - apiVersion: v2
     appVersion: 1.604.0
     created: "2025-09-10T13:06:30.391329381Z"
     description: A Helm chart for Kubernetes
     digest: 9438e612abf0d4eb13db9f4a4612eed3dac1dd1ff2c384c513d866e594030ef1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.604.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.604.0.tgz
     version: 1.604.0
   - apiVersion: v2
     appVersion: 1.602.0
     created: "2025-09-09T16:50:25.070441539Z"
     description: A Helm chart for Kubernetes
     digest: 14c8a1a03601d8ca353dccbc1f27829f997ae1cd98925f27c8bdc429b0a27051
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.602.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.602.0.tgz
     version: 1.602.0
   - apiVersion: v2
     appVersion: 1.601.0
     created: "2025-09-09T13:07:34.53736793Z"
     description: A Helm chart for Kubernetes
     digest: 78739b309a1a45ffdde7b96bedc66eec5108d0c8cd1af8a52d4e9185a14b9d3a
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.601.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.601.0.tgz
     version: 1.601.0
   - apiVersion: v2
     appVersion: 1.600.0
     created: "2025-09-09T11:42:02.544361442Z"
     description: A Helm chart for Kubernetes
     digest: 4e9fbdb5cf52259078691f184565bfb43e0efcf5613c81584a78ca9406dad66f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.600.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.600.0.tgz
     version: 1.600.0
   - apiVersion: v2
     appVersion: 1.599.0
     created: "2025-09-08T14:38:14.417554157Z"
     description: A Helm chart for Kubernetes
     digest: 029b0f1a1556de3914f6581970d16a4918f2d797e38ae85f7c421ad26c29c5ee
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.599.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.599.0.tgz
     version: 1.599.0
   - apiVersion: v2
     appVersion: 1.598.0
     created: "2025-09-07T16:17:56.791176373Z"
     description: A Helm chart for Kubernetes
     digest: c784b77f20daf937e2843fc02ff5fb0a9c616ba51e3f4a42c2d746155dd23876
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.598.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.598.0.tgz
     version: 1.598.0
   - apiVersion: v2
     appVersion: 1.597.0
     created: "2025-09-07T14:54:55.916475911Z"
     description: A Helm chart for Kubernetes
     digest: 3d3b41418351cc33a1d26be4a0d68f103eca65c0e723998a2c098804e1a508af
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.597.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.597.0.tgz
     version: 1.597.0
   - apiVersion: v2
     appVersion: 1.596.0
     created: "2025-09-07T13:57:33.507062406Z"
     description: A Helm chart for Kubernetes
     digest: f4b22704b70656b9904f8d5f90d1939b87c196fa62fb4665097bdf58bc958b13
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.596.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.596.0.tgz
     version: 1.596.0
   - apiVersion: v2
     appVersion: 1.595.0
     created: "2025-09-07T13:11:12.534667311Z"
     description: A Helm chart for Kubernetes
     digest: 2b1944a629eed729dba4b48ce8fda5ee502d0648351fdd3c9864d7d646252710
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.595.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.595.0.tgz
     version: 1.595.0
   - apiVersion: v2
     appVersion: 1.593.0
     created: "2025-09-07T01:13:25.579467148Z"
     description: A Helm chart for Kubernetes
     digest: a1b03943506591d7207a16548cd7f8c5805cb2785f811e5efe85c0d67f53470e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.593.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.593.0.tgz
     version: 1.593.0
   - apiVersion: v2
     appVersion: 1.592.0
     created: "2025-09-06T17:18:41.397407914Z"
     description: A Helm chart for Kubernetes
     digest: 6ad53801b6add9a77b5b4f18a235bca9a7962fca6d2881bd7ee289e0e594ce24
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-1.592.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-1.592.0.tgz
     version: 1.592.0
   - apiVersion: v2
     appVersion: v1.591.0
     created: "2025-09-06T15:40:13.209201337Z"
     description: A Helm chart for Kubernetes
     digest: 4acba62a6b97017529fe7ccc48d2c2fb64e4c42442395c6d697cb2c0e333fdfd
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.591.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.591.0.tgz
     version: v1.591.0
   - apiVersion: v2
     appVersion: v1.589.0
     created: "2025-09-06T12:29:11.255329943Z"
     description: A Helm chart for Kubernetes
     digest: 670c94c9fb0401e1ca545ebc256d9d2528d60b4dc7e8ad2f113be388ae40260e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.589.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.589.0.tgz
     version: v1.589.0
   - apiVersion: v2
     appVersion: v1.584.0
     created: "2025-09-05T14:19:24.259854829Z"
     description: A Helm chart for Kubernetes
     digest: b7c3ddab8fc5e9b6673d89e6916fc2c79ec9206af0f789dce5f7b98014b7dbe0
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.584.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.584.0.tgz
     version: v1.584.0
   - apiVersion: v2
     appVersion: v1.582.0
     created: "2025-09-05T02:39:43.746092092Z"
     description: A Helm chart for Kubernetes
     digest: 5443debff5b87f4ac072e190c53a8bf267be7cf324c4ef3e9d8f648f2be98c81
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.582.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.582.0.tgz
     version: v1.582.0
   - apiVersion: v2
     appVersion: v1.581.0
     created: "2025-09-04T16:24:17.439935596Z"
     description: A Helm chart for Kubernetes
     digest: aed5227334238e993c54a94ca41b4a2ea2caea4f8ed1410b8c509ae2d68a7f33
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.581.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.581.0.tgz
     version: v1.581.0
   - apiVersion: v2
     appVersion: v1.579.0
     created: "2025-09-04T13:53:27.929446239Z"
     description: A Helm chart for Kubernetes
     digest: a2744cdd6c408a33d06db60805ad53191d91f3ba2b737e8a7d1da2456bdc9177
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.579.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.579.0.tgz
     version: v1.579.0
   - apiVersion: v2
     appVersion: v1.578.0
     created: "2025-09-04T01:21:58.93311373Z"
     description: A Helm chart for Kubernetes
     digest: 7ac54a265e1a01005b40dd88a9c8c07ac342ded0beffc2e94b549d0d4ea9410f
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.578.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.578.0.tgz
     version: v1.578.0
   - apiVersion: v2
     appVersion: v1.576.0
     created: "2025-09-03T12:11:22.087613506Z"
     description: A Helm chart for Kubernetes
     digest: b4c7ac4b4a8ff6af3b87748d78744c8e674bc8859acae56daac2c1086f466bf1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.576.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.576.0.tgz
     version: v1.576.0
   - apiVersion: v2
     appVersion: v1.571.0
     created: "2025-08-27T13:20:23.882732384Z"
     description: A Helm chart for Kubernetes
     digest: 0b61750cb4430e88113fd7af70741e81d3f140200c447af6fac85af1cf20b0d6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.571.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.571.0.tgz
     version: v1.571.0
   - apiVersion: v2
     appVersion: v1.570.0
     created: "2025-08-27T06:19:18.22731108Z"
     description: A Helm chart for Kubernetes
     digest: 3423452bea62e467174517514e1b34cf4a1dfb7973fe3cd6e7a8d21ff1b87aaf
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.570.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.570.0.tgz
     version: v1.570.0
   - apiVersion: v2
     appVersion: v1.568.0
     created: "2025-08-23T08:04:02.014022406Z"
     description: A Helm chart for Kubernetes
     digest: fb0fa027e09f35235b5626e85deeedc12a43afdf2a7ac5ad320f7d0780ab967e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.568.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.568.0.tgz
     version: v1.568.0
   - apiVersion: v2
     appVersion: v1.567.0
     created: "2025-08-22T11:03:32.424902298Z"
     description: A Helm chart for Kubernetes
     digest: 4f633e673134c966ad47c84256e16a6c596ab28ff4af27c41417e198f6ed852d
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.567.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.567.0.tgz
     version: v1.567.0
   - apiVersion: v2
     appVersion: v1.566.0
     created: "2025-08-21T15:48:25.075168327Z"
     description: A Helm chart for Kubernetes
     digest: cceea86402646f653c9331cbd0da74d27c1c6cf1440e552812c73acfa2fb13c1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.566.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.566.0.tgz
     version: v1.566.0
   - apiVersion: v2
     appVersion: v1.565.0
     created: "2025-08-21T05:47:38.281531927Z"
     description: A Helm chart for Kubernetes
     digest: 54d295a28569580332710e390ee521c97fb4ed4bf5a65fddcdfcf6d36c3c3deb
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.565.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.565.0.tgz
     version: v1.565.0
   - apiVersion: v2
     appVersion: v1.564.0
     created: "2025-08-20T17:57:22.568383468Z"
     description: A Helm chart for Kubernetes
     digest: e5f9d0c162c20127762e02bc58085457d4580768d308078208a48064e0471287
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.564.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.564.0.tgz
     version: v1.564.0
   - apiVersion: v2
     appVersion: v1.563.0
     created: "2025-08-20T06:27:43.187737363Z"
     description: A Helm chart for Kubernetes
     digest: 7281db25027963bc809efb40d4dbe6495f43b7fc99964867556ee2100a3e1aca
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.563.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.563.0.tgz
     version: v1.563.0
   - apiVersion: v2
     appVersion: v1.562.0
     created: "2025-08-20T03:48:06.887880239Z"
     description: A Helm chart for Kubernetes
     digest: eeaed98a52fd8c4924476b60cebd78e58fece70a85c4c5f91d4ca0273f097522
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.562.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.562.0.tgz
     version: v1.562.0
   - apiVersion: v2
     appVersion: v1.561.0
     created: "2025-08-20T02:51:01.847024119Z"
     description: A Helm chart for Kubernetes
     digest: a7a5b519ebd656f80f046fcad306da13c8631fe35d365747b73d222f53994dd4
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.561.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.561.0.tgz
     version: v1.561.0
   - apiVersion: v2
     appVersion: v1.558.0
     created: "2025-08-18T14:47:47.504389178Z"
     description: A Helm chart for Kubernetes
     digest: a9ffa2447884697b3f13a3ef778b3dee5ddf98c81c76a170a4cca47082a95a8e
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.558.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.558.0.tgz
     version: v1.558.0
   - apiVersion: v2
     appVersion: v1.557.0
     created: "2025-08-17T12:25:30.613412379Z"
     description: A Helm chart for Kubernetes
     digest: d4347cccedc8c69542efaba4d4e83b48f6d1242f5461283a305cfb2ea0a50f7c
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.557.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.557.0.tgz
     version: v1.557.0
   - apiVersion: v2
     appVersion: v1.556.0
     created: "2025-08-17T08:44:19.458254463Z"
     description: A Helm chart for Kubernetes
     digest: 69d0834a0e1ef8f31ef2bc9943ae1e47b74daf9ae90d790400045143ac140855
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.556.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.556.0.tgz
     version: v1.556.0
   - apiVersion: v2
     appVersion: v1.555.0
     created: "2025-08-17T07:53:21.711514115Z"
     description: A Helm chart for Kubernetes
     digest: 0adabc3e8328901a9c946bf1d112d61b7889e853d5e246f8cb39e8b04965bc30
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.555.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.555.0.tgz
     version: v1.555.0
   - apiVersion: v2
     appVersion: v1.554.0
     created: "2025-08-16T16:27:42.818814826Z"
     description: A Helm chart for Kubernetes
     digest: 49ecad8fed497c4972cd1905c706507455f40e2b045ec421275bae413904edc7
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.554.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.554.0.tgz
     version: v1.554.0
   - apiVersion: v2
     appVersion: v1.553.0
     created: "2025-08-15T13:56:14.212414482Z"
     description: A Helm chart for Kubernetes
     digest: ba425f7d34b5f2a3381a3b62d5277c1b1c290122f22d68453bf817f71616d5ff
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.553.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.553.0.tgz
     version: v1.553.0
   - apiVersion: v2
     appVersion: v1.552.0
     created: "2025-08-14T14:06:40.803168863Z"
     description: A Helm chart for Kubernetes
     digest: 025e298771972bd5aecafea6eb7f6d10d9e3f7fce45692cb3520b841f3bfe1e1
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.552.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.552.0.tgz
     version: v1.552.0
   - apiVersion: v2
     appVersion: v1.551.0
     created: "2025-08-14T13:03:33.486872212Z"
     description: A Helm chart for Kubernetes
     digest: 7bc1cc4fddda0c9852eaf2c1b20ea3ad8493bd632178b60726f43c81a963e7a6
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.551.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.551.0.tgz
     version: v1.551.0
   - apiVersion: v2
     appVersion: v1.550.0
     created: "2025-08-14T08:40:52.443239606Z"
     description: A Helm chart for Kubernetes
     digest: 510689ff9c9d38d428be1cf43da48929b3ffcbbd058efa138cefbaf156551b79
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.550.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.550.0.tgz
     version: v1.550.0
   - apiVersion: v2
     appVersion: v1.549.0
     created: "2025-08-12T17:17:57.677319473Z"
     description: A Helm chart for Kubernetes
     digest: c994d33ca3d64f224153dee164f0e8798f1370752b56be44a424636dc60eccb9
-    name: casibase-helm-chart
+    name: openagent-helm-chart
     type: application
     urls:
-    - oci://registry-1.docker.io/casbin/casibase-helm-chart-v1.549.0.tgz
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.549.0.tgz
     version: v1.549.0
 generated: "2026-04-24T12:14:44.333691822Z"

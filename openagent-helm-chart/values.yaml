@@ -1,4 +1,4 @@
-# Default values for casibase-helm-chart.
+# Default values for openagent-helm-chart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
@@ -8,7 +8,7 @@ replicaCount: 1
 # This sets the container image more information can be found here: https://kubernetes.io/docs/concepts/containers/images/
 image:
   repository: casbin
-  name: casibase
+  name: openagent
   # This sets the pull policy for images.
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
@@ -17,17 +17,17 @@ image:
 # Use secret to mount app.conf file for who don't want user,pass on git  
 # encode base64 on Value.config or create your own secret with anything you prefer
 # if you use your own secret, leave Value.config: ""
-# appConfigFromSecret: casibase
+# appConfigFromSecret: openagent
 
 appConfig: |
-  appname = casibase
+  appname = openagent
   httpport = 14000
   runmode = dev
   SessionOn = true
   copyrequestbody = true
   driverName = mysql
   dataSourceName = root:123456@tcp(localhost:3306)/
-  dbName = casibase
+  dbName = openagent
   redisEndpoint =
   guacamoleEndpoint = 127.0.0.1:4822
   isDemoMode = false
@@ -39,9 +39,9 @@ appConfig: |
   clientId = af6b5aa958822fb9dc33
   clientSecret = 8bc3010c1c951c8d876b1f311a901ff8deeb93bc
   casdoorOrganization = "casbin"
-  casdoorApplication = "app-casibase"
+  casdoorApplication = "app-openagent"
   redirectPath = /callback
-  cacheDir = "C:/casibase_cache"
+  cacheDir = "C:/openagent_cache"
   appDir = ""
   isLocalIpDb = false
   audioStorageProvider = ""
@@ -55,12 +55,12 @@ appConfig: |
   iframeUrl = ""
   forceLanguage = ""
   defaultLanguage = "en"
-  staticBaseUrl = "https://cdn.casibase.org"
-  htmlTitle = "Casibase"
-  faviconUrl = "https://cdn.casibase.com/static/favicon.png"
-  logoUrl = "https://cdn.casibase.org/img/casibase-logo_1200x256.png"
+  staticBaseUrl = "https://cdn.openagentai.org"
+  htmlTitle = "OpenAgent"
+  faviconUrl = "https://cdn.openagentai.org/static/favicon.png"
+  logoUrl = "https://cdn.openagentai.org/img/openagent-logo_1200x256.png"
   navbarHtml = ""
-  footerHtml = "Powered by <a target="_blank" href="https://github.com/casibase/casibase" rel="noreferrer"><img style="padding-bottom: 3px;" height="20" alt="Casibase" src="https://cdn.casibase.org/img/casibase-logo_1200x256.png" /></a>"
+  footerHtml = "Powered by <a target="_blank" href="https://github.com/casbin/openagent" rel="noreferrer"><img style="padding-bottom: 3px;" height="20" alt="OpenAgent" src="https://cdn.openagentai.org/img/openagent-logo_1200x256.png" /></a>"
   appUrl = ""
   # frontendBaseDir = ""
   showGithubCorner = false
@@ -68,13 +68,13 @@ appConfig: |
   defaultColorPrimary = "#5734d3"
   defaultBorderRadius = 6
   defaultIsCompact = false
-  avatarErrorUrl = "https://cdn.casibase.org/gravatar/error.png"
+  avatarErrorUrl = "https://cdn.openagentai.org/gravatar/error.png"
 
 
 # This is for the secrets for pulling an image from a private repository more information can be found here: https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 imagePullSecrets: []
 # This is to override the chart name.
-nameOverride: "casibase"
+nameOverride: "openagent"
 fullnameOverride: ""
 
 # This is to set the app environment variables.

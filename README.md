@@ -1,3 +1,3 @@
-# Casibase Helm Charts
+# OpenAgent Helm Charts
 
-Docs: https://casibase.org/docs/basic/try-with-helm
+Docs: https://openagentai.org/docs/basic/try-with-helm
